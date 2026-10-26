@@ -11,6 +11,19 @@ Ghidul a fost realizat de **coVR** în proiectul *Spații pentru sine*, în part
 
 Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație.
 
+<div class="sps-logos-despre" markdown>
+<figure markdown>
+![Centrul de Proiecte al Municipiului Timișoara și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-negru.png#only-light){ .cdp }
+![Centrul de Proiecte al Municipiului Timișoara și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-alb.png#only-dark){ .cdp }
+<figcaption>Finanțator</figcaption>
+</figure>
+<figure markdown>
+[![coVR](../assets/img/covr-negru.png#only-light){ .covr }](https://covr.ro)
+[![coVR](../assets/img/covr-alb.png#only-dark){ .covr }](https://covr.ro)
+<figcaption>Realizator</figcaption>
+</figure>
+</div>
+
 ## Versiune
 
 - Open Brush **v2.32**, pe **Meta Quest 3S** cu cureaua **BoboVR S3 Pro**.
