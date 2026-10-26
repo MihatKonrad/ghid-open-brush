@@ -1,59 +1,35 @@
 ---
 title: Construiesc un spațiu personalizat
-description: De la idee la un spațiu desenat în VR, în care poți intra.
+description: Pașii tehnici pentru un spațiu desenat în passthrough, în locul real din școală.
 tags:
   - rețetă
   - spațiu
+  - passthrough
 ---
 
 # Construiesc un spațiu personalizat
 
-Rețeta de bază a proiectului: un grup de elevi desenează în VR un spațiu al lor, gândit pentru un loc din școală, în care se poate intra. Pașii de mai jos se întind pe mai multe ședințe.
+Pașii tehnici pentru un spațiu desenat **în passthrough**, direct în locul real din școală. Conținutul și felul în care elevii ajung la el țin de [procesul educațional](../practica/plan.md).
 
-## 1. Pe hârtie, înainte de cască
+## 1. Pregătește schița
 
-- Ce fel de spațiu vreți? Cum e? (liniștit, deschis, ascuns, luminos…) Alegeți **trei cuvinte** care îl descriu.
-- Unde ar sta în școală? Ce dimensiuni are: cât o cabină, cât o cameră, cât o curte?
-- O schiță rapidă de sus (plan) și una din față.
+1. **New Sketch** și salvează imediat cu un nume clar (vezi [regula de nume](../protocoale/arhivare.md#regula-de-nume)).
+2. Alege mediul **Passthrough** (vezi [Passthrough](../open-brush/spatiu.md#passthrough)).
+3. Dacă lucrați pe rând, în modul **Advanced**: deschide **Layers** și fă câte un strat pentru fiecare elev sau pentru fiecare parte a spațiului (vezi [Straturi](../open-brush/straturi.md)).
 
-## 2. Pregătește schița în cască
+## 2. Desenează în locul real
 
-1. **New Sketch** și salvează imediat cu un nume clar, de exemplu `G1_spatiu_2026-11-03`.
-2. Alege **mediul** (vezi [Mediu](../open-brush/spatiu.md#mediu)). Pentru început, un mediu neutru, cu sol.
-3. Treci în **Advanced** și deschide **Layers**. Fă straturile:
-    - `schelet` (linii de construcție);
-    - câte un strat pentru fiecare elev sau pentru fiecare parte a spațiului.
+- Desenul stă în sală la scara reală. Elevii merg în jurul lui și prin el.
+- În passthrough, mutarea lumii e blocată, ca desenul să nu se decaleze față de sală.
+- Dacă desenul pare decalat: *Environment* → **Reset Scene Transform**.
+- Pentru suprafețe plane și linii drepte: [ghidaje](../open-brush/spatiu.md#ghidaje) și [linie dreaptă](../open-brush/unelte/linie-dreapta.md).
 
-## 3. Scheletul, la scara reală
+## 3. Lucrul în grup
 
-1. Pe stratul `schelet`, cu o pensulă subțire (*Wire*) și cu [linia dreaptă](../open-brush/unelte/linie-dreapta.md), marchează pe sol **conturul** spațiului, mergând fizic de-a lungul lui.
-2. Marchează înălțimile importante: tavan, deschideri, locul în care cineva stă jos sau în picioare.
-3. Pentru pereți sau podele drepte, folosește un [ghidaj plan](../open-brush/spatiu.md#ghidaje).
+Pe rând pe o cască (Advanced, toate uneltele) sau împreună în multiplayer (Beginner). Vezi [Lucrez în grup](lucru-in-grup.md).
 
-!!! tip "Rămâi la scara 1:1 la început"
-    Nu mări și nu micșora lumea în faza de schelet. Doar așa spațiul are dimensiuni reale în care se poate intra.
+## 4. Păstrează și documentează
 
-## 4. Construiește
-
-- Fiecare elev lucrează pe **stratul lui** (vezi [Lucrez în grup](lucru-in-grup.md)).
-- Întâi formele mari (pereți, bolți, deschideri), apoi detaliile.
-- Folosiți **pipeta** ca să păstrați o paletă de culori comună.
-- Salvați la fiecare 10–15 minute.
-
-## 5. Atmosfera
-
-1. **Lumini**: mută soarele pentru umbrele dorite, colorează lumina de umplere (vezi [Lumini](../open-brush/spatiu.md#lumini)).
-2. **Cer și ceață**: culoare de fundal și puțină ceață pentru adâncime.
-3. **Accente**: câteva linii care luminează singure sau particule, cu măsură (vezi [Cost și performanță](../open-brush/pensule.md#cost-si-performanta)).
-
-## 6. Verifică spațiul „din interior”
-
-- Ascunde stratul `schelet`.
-- Intră fizic în spațiu: stai jos, întoarce-te, privește în sus. Cum se simte? Corespunde celor trei cuvinte de la început?
-- Lasă un coleg să intre și să spună ce simte, fără explicații prealabile.
-
-## 7. Păstrează și documentează
-
-- Salvează versiunea finală a zilei.
-- Fă 3–5 fotografii și o imagine 360° din interior (vezi [Fac imagini pentru portofoliu](capturi.md)).
-- Notează pe hârtie ce s-a lucrat și ce urmează data viitoare.
+- Salvează la sfârșitul fiecărei sesiuni.
+- Fă capturi (vezi [Fac imagini pentru portofoliu](capturi.md)).
+- Copiază schița pe calculator (vezi [Salvare și arhivare](../protocoale/arhivare.md)).

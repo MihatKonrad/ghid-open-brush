@@ -1,25 +1,37 @@
 ---
 title: Spațiul de lucru
-description: Mediu, lumini, cer și ceață, ghidaje, aliniere la grilă și transformări precise.
+description: Passthrough (lucrul în sala reală), mediu, lumini, fundal, ghidaje, aliniere.
 tags:
   - spațiu
-  - atmosferă
+  - passthrough
 ---
 
 # Spațiul de lucru
 
-Pentru proiectele în care elevii construiesc un **spațiu**, aceste panouri contează aproape cât pensula. Ele stabilesc unde stă desenul, cum e luminat și ce atmosferă are. În modul Advanced le găsești toate în panoul **Extras**.
+## Passthrough: desenul în sala reală { #passthrough }
+
+În proiect lucrăm **tot timpul în passthrough**: elevii văd sala reală prin camerele căștii și desenează direct în ea. Desenul stă în spațiul real al școlii, nu într-o lume virtuală.
+
+Cum îl pornești: alegi mediul **Passthrough** din panoul *Environment* (în Beginner, pe fața *Tools*; în Advanced, în *Extras*).
+
+Ce se schimbă în passthrough:
+
+- **Mutarea lumii e blocată.** Open Brush nu mai lasă desenul să fie mutat, rotit sau scalat cu butoanele laterale, ca să nu se decaleze față de sala reală dintr-o apucare accidentală.
+- **Comenzile scenei** sunt în fereastra mediului Passthrough (deschizi *Environment* cât timp e selectat Passthrough):
+    - **Lock Scene Transform** blochează sau permite mutarea lumii;
+    - **Reset Scene Transform** readuce desenul în poziția, orientarea și mărimea inițiale.
+- **Zona de siguranță a căștii nu se mai afișează** cât timp mediul Passthrough e activ. Elevii văd sala, dar zona fizică trebuie să rămână liberă (vezi [În timpul sesiunii](../protocoale/in-timpul.md#siguranta-fizica)).
+
+!!! info "Desenul rămâne legat de locul real"
+    Blocarea împiedică doar mutarea din Open Brush. Cât de bine stă desenul pe locul lui depinde de urmărirea căștii și de configurarea sălii. Dacă desenul pare decalat, folosiți **Reset Scene Transform**.
+
+În [multiplayer](multiplayer.md#in-aceeasi-sala-passthrough-si-colocare), fiecare elev vede sala prin casca lui, iar desenul comun e aliniat prin colocare.
 
 ## Mediu (*Environment*) { #mediu }
 
-Mediul e „camera” în care desenezi: un studio, un cer de noapte, spațiul cosmic, un manechin de croitorie și altele.
+Pe lângă Passthrough, Open Brush are medii virtuale: un studio, un cer de noapte, spațiul cosmic și altele. Lumina mediului schimbă felul în care arată culorile, dar nu modifică liniile deja trase. Mediul se salvează odată cu schița.
 
-- Alegi un mediu din panoul *Environment* (în Beginner, direct pe fața *Tools*; în Advanced, în *Extras*).
-- Lumina mediului **schimbă felul în care arată culorile**, dar nu modifică liniile deja trase.
-- Mediul se salvează odată cu schița.
-
-!!! tip "Alege mediul la început"
-    Stabiliți mediul înainte de a alege culorile. Un spațiu desenat pe fond alb poate arăta complet diferit pe fond de noapte.
+În proiect le folosim doar ca să înțelegem ce face un mediu. Lucrul propriu-zis se face în Passthrough.
 
 ## Lumini (*Lights*) { #lumini }
 
@@ -32,22 +44,22 @@ Scena are trei lumini, pe care le poți colora și orienta:
 | **Lumina de umplere** (*fill*) | luminează uniform toată scena; se vede mai ales în culoarea umbrelor |
 
 - Muți soarele și luna apucându-le cu trăgaciul pe sfera mică din panou.
-- Efectul se vede cel mai bine pe pensulele mate și în mediile cu sol.
 - Luminile se salvează cu schița.
+- Pensulele care luminează singure nu sunt afectate de lumini (vezi [Pensule](pensule.md#pensule-care-lumineaza-singure)).
 
-Pensulele care luminează singure nu sunt afectate de lumini (vezi [Pensule](pensule.md#pensule-care-lumineaza-singure)).
+!!! verifica "De verificat în passthrough"
+    Cum se văd luminile scenei pe liniile desenate în mediul Passthrough.
 
-## Cer și ceață (*Backdrop*) { #cer-si-ceata }
+## Fundal: cer și ceață (*Backdrop*) { #cer-si-ceata }
 
-Panoul *Backdrop* schimbă **cerul** (un gradient între două culori) și **ceața**.
+Panoul *Backdrop* schimbă **cerul** unui mediu virtual (un gradient între două culori) și **ceața**:
 
-- Alegi culorile de sus și de jos ale cerului.
-- Cursorul de ceață stabilește cât de densă e. Dreptunghiul de lângă el îi schimbă culoarea.
-- Unele medii au un cer cu textură; aplicația îți cere să-l oprești înainte de a-l modifica.
-- Ca să revii la cerul inițial, reîncarci mediul din panoul *Environment*.
+- alegi culorile de sus și de jos ale cerului;
+- cursorul de ceață stabilește cât de densă e; dreptunghiul de lângă el îi schimbă culoarea;
+- ca să revii la cerul inițial, reîncarci mediul din panoul *Environment*.
 
-!!! tip "Ceața dă adâncime"
-    Puțină ceață face ca liniile îndepărtate să se piardă în fundal. Spațiul pare mai mare și mai liniștit.
+!!! note "În proiect"
+    Explicăm ce face *Backdrop*, dar elevii lucrează în passthrough, unde fundalul este sala reală.
 
 ## Ghidaje (*Guides*) { #ghidaje }
 
@@ -55,10 +67,10 @@ Ghidajele sunt forme transparente pe care desenul „se lipește”. Te ajută s
 
 | Ghidaj | Pentru |
 | --- | --- |
-| **Plan** | podele, pereți, mese, desen 2D în spațiu |
-| **Sferă** | cupole, globuri, forme rotunde |
-| **Cub** | muchii și fețe drepte, cutii, încăperi |
-| **Capsulă** | cilindri, coloane, trunchiuri |
+| **Plan** | suprafețe plane, desen 2D în spațiu |
+| **Sferă** | forme rotunde |
+| **Cub** | muchii și fețe drepte |
+| **Capsulă** | cilindri cu capete rotunjite |
 
 Ghidajele se mută și se scalează ca orice obiect, cu butoanele laterale.
 
@@ -66,10 +78,8 @@ Ghidajele se mută și se scalează ca orice obiect, cu butoanele laterale.
 
 Pentru lucru precis există două panouri, în *Extras*:
 
-- **Snap Settings** (alinierea): pozițiile se rotunjesc la o grilă, iar rotațiile la unghiuri fixe. Poți alinia doar pe unele axe (de exemplu doar pe înălțime). Poți alinia și la ghidaje.
+- **Snap Settings** (alinierea): pozițiile se rotunjesc la o grilă, iar rotațiile la unghiuri fixe. Poți alinia doar pe unele axe și poți alinia la ghidaje.
 - **Transform**: blochezi anumite axe ca să muți un obiect doar pe orizontală, doar pe verticală etc., și ai unelte de aliniere.
 
-Sunt utile mai ales când repetați elemente (ferestre, coloane, trepte) și vreți să stea în rând.
-
-!!! video "Clip: atmosfera unui spațiu (în pregătire)"
-    Același desen în trei medii, mutarea soarelui, cer și ceață, un ghidaj plan folosit ca podea.
+!!! video "Clip: passthrough (în pregătire)"
+    Alegerea mediului Passthrough, desen în sală, Lock și Reset Scene Transform.

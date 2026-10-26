@@ -31,19 +31,21 @@ Pe căștile noastre, cureaua originală e înlocuită cu **BoboVR S3 Pro**. Reg
 
 ## Zona de siguranță { #zona-de-siguranta }
 
-Înainte de desen, casca îți cere să stabilești zona în care te poți mișca (*boundary*). Când te apropii de margine, apare un perete virtual de avertizare; dacă ieși din zonă, vezi automat sala reală.
+Casca îți cere să stabilești zona în care te poți mișca (*boundary*). Când te apropii de margine, apare un perete virtual de avertizare.
 
-- **Roomscale** (zonă în care te miști): pentru desen. Trasezi pe podea, cu controlerul, conturul zonei libere. Minimum **2 × 2 m**, fără mobilier, ghiozdane sau cabluri.
-- **Stationary** (pe loc): un cerc mic în jurul tău. Pentru prezentări sau pentru cine desenează stând pe scaun.
+!!! warning "În passthrough, Open Brush ascunde zona de siguranță"
+    În proiect lucrăm în mediul **Passthrough**. Cât timp e activ, Open Brush cere căștii să nu mai afișeze zona de siguranță: elevul vede sala reală, dar **nu mai primește avertismentul** la margine. De aceea spațiul fizic din jurul lui trebuie să fie cu adevărat liber.
 
-Casca ține minte zonele deja trasate, dacă sala nu se schimbă. Verificați-o la începutul fiecărei ore.
+Zona tot se stabilește la pornirea căștii și o verificați la începutul fiecărei ore. Casca ține minte zonele deja trasate, dacă sala nu se schimbă.
 
-!!! protocol "Zona trebuie să fie reală"
-    Zona trasată trebuie să fie **cu adevărat liberă**. Nimeni nu intră în zona celui care poartă casca. Vezi [În timpul sesiunii](../protocoale/in-timpul.md).
+!!! protocol "Spațiul trebuie să fie liber"
+    Fără mobilier, ghiozdane sau cabluri în zona în care desenează elevul. Nimeni nu intră în zona celui care poartă casca. Vezi [În timpul sesiunii](../protocoale/in-timpul.md#siguranta-fizica).
 
-## Vederea sălii fără să scoți casca (passthrough)
+## Vederea sălii (passthrough)
 
-Pe partea stângă a căștii, jos, e **butonul de acțiune** (*Action button*). O apăsare dublă comută între imaginea virtuală și imaginea sălii. E util când cineva îți vorbește sau vrei să verifici în jur.
+Quest 3S îți poate arăta sala reală prin camerele exterioare. În Open Brush folosim pentru asta **mediul Passthrough**, în care elevii desenează direct în sală (vezi [Passthrough](../open-brush/spatiu.md#passthrough)).
+
+În afara Open Brush, **butonul de acțiune** (*Action button*), jos pe partea stângă a căștii, comută între imaginea virtuală și imaginea sălii.
 
 !!! verifica "De verificat pe căștile noastre"
     Funcția butonului de acțiune se poate schimba din setările căștii. Verificați că e setat pe *passthrough*.

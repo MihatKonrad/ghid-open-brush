@@ -1,6 +1,6 @@
 ---
 title: Fac imagini pentru portofoliu
-description: Fotografii, GIF-uri, panorame 360° și video din desen.
+description: Fotografii, GIF-uri, imagini 360° și video din desen.
 tags:
   - rețetă
   - export
@@ -9,28 +9,19 @@ tags:
 
 # Fac imagini pentru portofoliu
 
-La sfârșitul fiecărei etape, păstrați câteva imagini. Ele arată evoluția spațiului și sunt utile pentru expoziție și pentru raportare.
+Imaginile arată evoluția spațiilor și sunt utile pentru expoziție și pentru raportare. Cu [camera foto](../open-brush/unelte/camera.md) din Open Brush faci fotografii (*Snapshot*), imagini 360° (*360 Snapshot*) și GIF-uri (*Auto-Gif*, *5 Second Gif*).
 
-## Setul minim, la fiecare etapă
-
-| Ce | Câte | Cu ce |
-| --- | --- | --- |
-| fotografie de ansamblu, din exterior | 1–2 | camera, mod *Snapshot* |
-| fotografii din interiorul spațiului | 2–3 | camera, mod *Snapshot* |
-| panoramă 360° din centrul spațiului | 1 | camera, mod *360 Snapshot* |
-| GIF scurt, în mișcare | 1 (opțional) | camera, mod *5 Second Gif* |
+!!! verifica "De verificat în passthrough"
+    Dacă fotografiile și GIF-urile făcute cu camera din Open Brush includ și sala reală sau doar desenul. Înregistrarea de sistem a căștii (mai jos) ar trebui să arate ce vede elevul.
 
 ## Pași
 
 1. Salvează schița.
-2. Ascunde straturile de construcție și imaginile de referință.
+2. Ascunde straturile pe care nu vrei să le arăți (vezi [Straturi](../open-brush/straturi.md)).
 3. Din **Camera Options** (ține apăsat pe *Camera*): oprește **watermark** (sigla Open Brush) și pornește **smoothing** (netezire) pentru GIF-uri.
 4. Alege **Camera** și modul dorit, cu joystick-ul mâinii-pensulă.
-5. Fă capturile. Ține mâna cât mai nemișcată la fotografii și mai ales la panorama 360°.
+5. Fă capturile. Ține camera nemișcată până se termină captura, mai ales la imaginea 360°.
 6. Copiază imaginile pe calculator (vezi [Copiez lucrările pe calculator](transfer.md)).
-
-!!! tip "Încadrarea"
-    Un câmp vizual (FOV) mai mic (de exemplu 50–60) dă imagini mai „fotografice”. Unul mare (90+) arată mai mult din spațiu, dar deformează marginile.
 
 ## Video
 

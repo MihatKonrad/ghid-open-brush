@@ -11,16 +11,16 @@ tags:
 
 - [ ] căștile și bateriile B100 sunt la încărcat;
 - [ ] baterii AA de rezervă pentru controlere;
-- [ ] imaginile de referință (dacă sunt) copiate în căști (vezi [Desenez pornind de la o fotografie](../procese/fotografie-referinta.md));
+- [ ] imaginile de referință (dacă sunt) copiate în căști (vezi [Imagini și modele](../open-brush/import.md));
 - [ ] e clar ce grupă lucrează pe ce cască.
 
 ## În sală, cu 15 minute înainte
 
-- [ ] **spațiul**: cel puțin **2 × 2 m liberi pentru fiecare cască** folosită simultan, cu distanță între zone; fără ghiozdane, cabluri sau scaune în zonă;
+- [ ] **spațiul**: zonă liberă în jurul fiecărei căști folosite simultan, cu distanță între zone; fără ghiozdane, cabluri sau scaune. În passthrough zona de siguranță a căștii nu se afișează, deci spațiul trebuie să fie liber în realitate;
 - [ ] **lumina**: sală luminată uniform, fără soare direct pe căști; dacă e cazul, trageți jaluzelele (și camerele căștii urmăresc mai bine controlerele);
 - [ ] **căștile pornite**, nivelul bateriilor verificat (căști și B100 peste 50%);
 - [ ] **zona de siguranță** (*boundary*) verificată sau retrasată pe fiecare cască;
-- [ ] **Open Brush deschis o dată** pe fiecare cască (fără actualizări-surpriză la începutul orei);
+- [ ] **Open Brush deschis o dată** pe fiecare cască (fără actualizări-surpriză la începutul orei), în mediul **Passthrough**;
 - [ ] **Facilitator Suite** deschis pe laptop, căștile grupei vizibile în listă (vezi [Meta Horizon managed services](../echipament/horizon-managed-services.md)); Open Brush poate fi lansat de acolo pe toate căștile;
 - [ ] **transmiterea pe ecran** testată (vezi [Arăt pe ecran ce vede elevul](../procese/proiectare.md));
 - [ ] **materialele de igienă**: lavete din microfibră, șervețele fără alcool, dezinfectant pentru mâini;

@@ -1,6 +1,6 @@
 ---
 title: Imagini și modele
-description: Imagini de referință, fundal 360°, modele 3D și linii salvate pentru refolosire.
+description: Imagini de referință, modele 3D, linii salvate pentru refolosire, panorame 360°.
 tags:
   - import
   - referință
@@ -8,7 +8,7 @@ tags:
 
 # Imagini și modele
 
-Poți aduce în desen **imagini de referință**, **video**, **panorame 360°** pentru cer și **modele 3D**. Toate se încarcă din **biblioteca media**.
+Poți aduce în desen **imagini de referință**, **video**, **modele 3D** și **panorame 360°** pentru cerul mediilor virtuale. Toate se încarcă din **biblioteca media**.
 
 ## Deschide biblioteca media
 
@@ -54,10 +54,10 @@ Le copiezi cu un cablu USB-C de pe calculator. Pașii: [Copiez lucrările pe cal
 
 ## Panoramă 360° ca cer
 
-O fotografie panoramică 360° (proporție 2:1) poate înlocui cerul mediului. Elevii „stau” astfel în interiorul fotografiei și desenează peste ea. Copiezi panorama în dosarul `BackgroundImages`, apoi alegi fila **Background Images** din bibliotecă.
+O fotografie panoramică 360° (proporție 2:1) poate înlocui cerul unui mediu virtual. Se copiază în dosarul `BackgroundImages` și se alege din fila **Background Images**.
 
-!!! tip "Pentru proiectele despre locuri reale"
-    O panoramă 360° a unui colț din școală, făcută cu telefonul sau cu o cameră 360°, e un punct de plecare foarte bun pentru un spațiu personalizat. Vezi [Desenez pornind de la o fotografie](../procese/fotografie-referinta.md).
+!!! note "În proiect"
+    Nu o folosim: elevii lucrează în passthrough, unde fundalul este sala reală.
 
 ## Refolosește linii salvate { #refoloseste-linii-salvate }
 

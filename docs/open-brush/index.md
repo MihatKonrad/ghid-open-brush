@@ -17,7 +17,8 @@ Spre deosebire de desenul pe hârtie sau pe tabletă, linia nu stă pe o suprafa
 | ștergi, repari, schimbi culori pe linii deja trase | radieră, repictare, selecție | [Unelte](unelte/index.md) |
 | desenezi simetric | oglinda | [Oglindă](unelte/oglinda.md) |
 | linii perfect drepte, cercuri, sfere | linia dreaptă, ghidajele | [Linie dreaptă](unelte/linie-dreapta.md), [Spațiul de lucru](spatiu.md#ghidaje) |
-| schimbi atmosfera: cer, lumină, ceață | mediu, lumini, fundal | [Spațiul de lucru](spatiu.md) |
+| desenezi direct în sala reală | mediul Passthrough | [Passthrough](spatiu.md#passthrough) |
+| schimbi mediul, luminile, fundalul | mediu, lumini, *Backdrop* | [Spațiul de lucru](spatiu.md) |
 | împarți lucrarea pe părți, pe care le ascunzi sau le arăți | straturile | [Straturi](straturi.md) |
 | pornești de la o fotografie sau o schiță | biblioteca media | [Imagini și modele](import.md) |
 | te miști prin desene mari | teleport, zbor, mutarea lumii | [Teleport și zbor](unelte/deplasare.md) |

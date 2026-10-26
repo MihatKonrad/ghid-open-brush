@@ -30,7 +30,10 @@ tags:
 
 ## Mută, rotește și scalează desenul
 
-Ține apăsate **ambele butoane laterale** (*grip*), câte unul în fiecare mână, ca și cum ai apuca desenul cu două mâini:
+!!! warning "În passthrough, mutarea lumii e blocată"
+    În proiect lucrăm în mediul **Passthrough**, unde Open Brush blochează mutarea lumii, ca desenul să rămână pe locul lui din sală. Ca să vezi desenul din altă parte, mergi în jurul lui. Mutarea se poate debloca din *Environment* → **Lock Scene Transform**, iar **Reset Scene Transform** readuce desenul la locul inițial (vezi [Passthrough](spatiu.md#passthrough)).
+
+În mediile virtuale, ține apăsate **ambele butoane laterale** (*grip*), câte unul în fiecare mână, ca și cum ai apuca desenul cu două mâini:
 
 - mișcă mâinile împreună: **muți** desenul;
 - rotește-le una în jurul celeilalte: **rotești** desenul;
@@ -40,9 +43,6 @@ Cu **un singur** buton lateral, apăsat în spațiul gol, poți trage desenul ma
 
 !!! info "Desenul nu se modifică"
     Când „apuci lumea”, schimbi doar poziția ta față de desen. Liniile rămân la fel. E ca și cum te-ai apropia de o sculptură sau ai privi-o prin lupă.
-
-!!! tip "Lucrează la scara potrivită"
-    Pentru detalii fine, mărește desenul și apropie-te. Pentru compoziția de ansamblu, micșorează-l ca să-l vezi întreg. Revino la scara reală (1:1) când vrei să „intri” în spațiu.
 
 ## Linii mai netede (Lazy Input)
 
@@ -68,10 +68,10 @@ Linia iese din **vârful** controlerului, nu din mână. Dacă ți se pare incom
 | schimb grosimea | joystick mâna-pensulă stânga/dreapta |
 | rotesc paleta | joystick mâna-paletă stânga/dreapta |
 | anulez / refac | ++x++ / ++y++ |
-| mut lumea | un buton lateral |
-| rotesc și scalez lumea | ambele butoane laterale |
+| mut lumea (blocat în passthrough) | un buton lateral |
+| rotesc și scalez lumea (blocat în passthrough) | ambele butoane laterale |
 | deschid meniul rapid | ++b++ |
 | apuc un panou, o imagine, o selecție | butonul lateral al mâinii-pensulă |
 
 !!! video "Clip: gesturile de bază (în pregătire)"
-    Trasare, grosime, anulare, mutarea și scalarea lumii cu două mâini.
+    Trasare, grosime, anulare, desenul văzut din mai multe părți în passthrough.

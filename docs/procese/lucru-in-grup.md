@@ -16,10 +16,9 @@ Un grup poate lucra la aceeași schiță în două feluri:
 | --- | --- | --- |
 | cum | elevii trec pe rând prin aceeași cască | fiecare are casca lui, toți desenează deodată |
 | unelte | **toate**, în modul Advanced (straturi, selecție, import, repictare) | doar modul **Beginner** (pensule, culori, radieră, linie dreaptă, oglindă) |
-| bun pentru | construcția atentă a spațiului | schițe rapide împreună, explorare, discuție în spațiu |
 | necesită | o cască | o cască de elev, internet, aceeași versiune Open Brush |
 
-Le puteți combina: **schițați împreună în multiplayer**, apoi **rafinați pe rând** pe o cască. Prima parte a paginii descrie lucrul pe rând; varianta multiplayer e [la final](#varianta-multiplayer).
+Prima parte a paginii descrie lucrul pe rând; varianta multiplayer e [la final](#varianta-multiplayer).
 
 ## O singură schiță, o singură cască
 
@@ -29,40 +28,30 @@ Schița unui grup stă **mereu pe aceeași cască**. Etichetați căștile (de e
 
 1. La prima ședință, faceți câte un strat pentru fiecare elev, cu numele lui (vezi [Straturi](../open-brush/straturi.md)).
 2. Când un elev pune casca, își face activ **stratul propriu** înainte să deseneze.
-3. Stratul comun (`schelet`, `atmosfera`) se modifică doar după ce discută grupul.
 
 ## Schimbul la cască
 
 !!! protocol "La fiecare schimb"
     1. Elevul care termină **salvează** (*Save Sketch*).
-    2. Spune cu voce tare ce a făcut și unde, ca următorul să știe.
-    3. Casca se igienizează (vezi [Igienă și siguranță](../protocoale/igiena-siguranta.md)).
-    4. Următorul elev își reglează casca, apoi își face activ stratul.
+    2. Casca se igienizează (vezi [Igienă și siguranță](../protocoale/igiena-siguranta.md)).
+    3. Următorul elev își reglează casca, apoi își face activ stratul.
 
-## Ce fac ceilalți cât timp unul e în cască
+## Ce văd ceilalți
 
-Unul desenează, ceilalți nu stau degeaba:
+Cât timp unul desenează, ceilalți pot urmări pe ecran ce vede el (vezi [Arăt pe ecran ce vede elevul](proiectare.md)).
 
-- urmăresc pe ecran ce vede colegul (vezi [Arăt pe ecran ce vede elevul](proiectare.md)) și îl ghidează verbal;
-- unul are rolul de **paznic**: urmărește zona din jurul celui cu casca;
-- schițează pe hârtie următoarea parte sau notează ce s-a făcut.
+## Variante fără să pierzi originalul
 
-## Fără să strici munca altcuiva
-
-- Nu ștergeți și nu repictați liniile altui elev fără să-l întrebați.
-- Ca să încercați o variantă: copiați partea respectivă pe un strat nou și lucrați pe copie.
-- Orice greșeală se poate anula cu ++x++, cât timp schița nu a fost închisă.
+Ca să încercați o variantă, copiați partea respectivă pe un strat nou (vezi [Selecție](../open-brush/unelte/selectie.md)) și lucrați pe copie. Orice greșeală se poate anula cu ++x++, cât timp schița nu a fost închisă.
 
 ## Varianta multiplayer { #varianta-multiplayer }
 
 Toți elevii grupei desenează **în același timp**, fiecare cu casca lui, în aceeași schiță. Pașii tehnici sunt în pagina [Multiplayer](../open-brush/multiplayer.md). Pe scurt, pentru o sesiune:
 
-1. **Înainte:** toate căștile pe aceeași rețea, cu aceeași versiune Open Brush. Testați conexiunea.
-2. Toate căștile în modul **Beginner** (multiplayer nu merge în Advanced).
-3. **Profesorul creează camera**, cu un nume greu de ghicit, și rămâne proprietar.
-4. Elevii intră cu **prenumele** ca pseudonim.
-5. Dacă sunteți în aceeași sală: mediu **passthrough**, **colocare** pe marginea unei mese, **vocea oprită** pentru toată camera.
-6. **Împărțiți spațiul:** fiecare elev are o zonă sau un element de care se ocupă, ca să nu editați același obiect în același timp.
-7. **Spațiu fizic:** distanță mare între elevi și un paznic la fiecare 2–3 elevi. Zonele de siguranță ale căștilor nu se văd între ele.
-8. **La final:** salvați schița comună (vezi [Salvare](../open-brush/multiplayer.md#salvare)), apoi continuați rafinarea pe rând, pe o singură cască, în modul Advanced, cu toate uneltele.
+1. Toate căștile pe aceeași rețea, cu aceeași versiune Open Brush, în modul **Beginner** (multiplayer nu merge în Advanced).
+2. **Profesorul creează camera** și rămâne proprietar.
+3. Mediu **Passthrough** și **colocare**, ca desenul să stea pentru toți în același loc din sală.
+4. Doi elevi nu editează același obiect în același timp (limitare a aplicației).
+5. Spațiul fizic dintre elevi rămâne liber: în passthrough, zonele de siguranță ale căștilor nu se afișează.
+6. La final, schița comună se salvează (vezi [Salvare](../open-brush/multiplayer.md#salvare)).
 

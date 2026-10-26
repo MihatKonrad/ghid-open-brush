@@ -23,9 +23,9 @@ Rolurile elevilor se schimbă la fiecare rotație.
 
 ## Durată și pauze
 
-- O tură în cască: **15–20 de minute** pentru începători, **maximum 30 de minute** pentru cei obișnuiți.
-- După fiecare tură: cel puțin **10 minute fără cască**.
-- Primele ore: ture mai scurte. Durata crește treptat, pe măsură ce elevii se obișnuiesc.
+Meta recomandă, pentru început, **o pauză cel puțin la fiecare 30 de minute** și o pauză oricând apare un disconfort. La început casca se folosește câte câteva minute, iar durata crește treptat ([Meta, VR Comfort and Safety](https://about.fb.com/wp-content/uploads/2022/10/VR-Comfort-and-Safety.pdf)).
+
+Durata exactă a turelor în atelier o stabilesc facilitatorii, în funcție de grupă.
 
 ## Semnale de disconfort
 
@@ -49,7 +49,7 @@ Ca să preveniți disconfortul: evitați **zborul** și mișcările artificiale 
 
 - Desenatorul nu aleargă și nu face mișcări bruște cu brațele.
 - Curelușele controlerelor rămân pe încheieturi.
-- Dacă apare peretele de avertizare al zonei, desenatorul se oprește și se întoarce spre centru.
+- În passthrough, Open Brush **ascunde zona de siguranță** a căștii: avertismentul de margine nu mai apare. Elevul vede sala, dar spațiul din jurul lui trebuie să rămână liber pe toată durata desenului.
 - Paznicul atinge ușor umărul desenatorului **doar după ce l-a anunțat verbal**, ca să nu-l sperie.
 
 ## Salvarea

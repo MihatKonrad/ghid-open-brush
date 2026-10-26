@@ -12,9 +12,9 @@ Pentru cine pune casca pentru prima dată. Durează în jur de 15 minute. Restul
 
 1. **Verifică bateriile.** Casca și bateria curelei BoboVR trebuie să fie încărcate. Detalii: [Cureaua BoboVR S3 Pro](echipament/bobovr-s3-pro.md#incarcare).
 2. **Pune casca și reglează-o.** Slăbește rotița de la spate, pune casca din față spre spate, apoi strânge rotița până stă fix, fără să apese pe față. Imaginea trebuie să fie clară; dacă e încețoșată, mișcă puțin casca în sus sau în jos. Detalii: [Casca Meta Quest 3S](echipament/quest-3s.md#reglaj).
-3. **Trasează zona de joc** (*boundary*). Pentru desen e bine să te poți mișca: alege zona în care te poți deplasa (*roomscale*) și trasează cel puțin 2 × 2 m liberi. Detalii: [Zona de siguranță](echipament/quest-3s.md#zona-de-siguranta).
+3. **Verifică zona de lucru.** Spațiul din jurul elevului trebuie să fie liber: în passthrough, Open Brush ascunde zona de siguranță a căștii. Detalii: [Zona de siguranță](echipament/quest-3s.md#zona-de-siguranta).
 4. **Pornește Open Brush.** Apasă butonul Meta de pe controlerul drept, deschide **Biblioteca de aplicații** și alege **Open Brush**.
-5. **Deschide o schiță nouă.** La pornire se deschide *Sketchbook* (caietul de schițe). Alege **New Sketch** (schiță nouă).
+5. **Deschide o schiță nouă în passthrough.** La pornire se deschide *Sketchbook* (caietul de schițe). Alege **New Sketch** (schiță nouă), apoi, din panoul *Environment*, mediul **Passthrough**: vezi sala reală și desenezi în ea. Detalii: [Passthrough](open-brush/spatiu.md#passthrough).
 6. **Stângaci?** Lovește ușor una de alta bazele celor două controlere: paleta și pensula își schimbă mâna. Detalii: [Schimbarea mâinilor](echipament/controlere.md#stangaci).
 7. **Desenează.** Ține apăsat **trăgaciul** (*trigger*) mâinii-pensulă și mișcă mâna. Linia apare în aer, exact unde e vârful controlerului.
 8. **Schimbă grosimea, culoarea și pensula.**
@@ -23,17 +23,17 @@ Pentru cine pune casca pentru prima dată. Durează în jur de 15 minute. Restul
     - Ca să alegi ceva, îndrepți mâna-pensulă spre paletă și apeși trăgaciul pe buton.
 9. **Greșeli și mișcare.**
     - ++x++ pe mâna-paletă = **anulează** ultima linie (*Undo*). ++y++ = **refă** (*Redo*). Ține apăsat ca să anulezi mai multe deodată.
-    - Ține apăsate **ambele butoane laterale** (*grip*) și mișcă mâinile: tot desenul se mută, se rotește, se mărește sau se micșorează. Desenul nu se strică, se schimbă doar locul tău față de el.
+    - Desenul stă în sală: ca să-l vezi din altă parte, **mergi în jurul lui**. În passthrough, mutarea lumii cu butoanele laterale e blocată.
 10. **Salvează.** Pe mâna-paletă e panoul de administrare (*Admin Panel*). Apasă **Save Sketch** (salvează schița). Aplicația face și o fotografie mică a desenului, pe care o vezi apoi în *Sketchbook*.
 
 !!! protocol "Înainte să scoți casca"
     Salvează întotdeauna, chiar dacă desenul nu e terminat. Open Brush face și salvări automate, dar nu te baza pe ele. Vezi [Salvare și arhivare](protocoale/arhivare.md).
 
 !!! video "Clip: prima sesiune (în pregătire)"
-    Clip scurt, filmat în cască: pașii 5–10, de la schița nouă la salvare.
+    Clip scurt, filmat în cască: pașii 5–10, de la schița nouă în passthrough la salvare.
 
 ## Mai departe
 
 - [Interfața](open-brush/interfata.md): unde e fiecare panou.
 - [Desenul de bază](open-brush/desen.md): toate gesturile esențiale.
-- [Exerciții](practica/exercitii.md): primele trei exerciții sunt bune pentru prima oră.
+- [Passthrough](open-brush/spatiu.md#passthrough): ce se schimbă când desenezi în sala reală.
