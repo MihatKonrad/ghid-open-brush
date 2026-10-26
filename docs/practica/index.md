@@ -5,7 +5,7 @@ description: Cum organizezi orele de practică cu Open Brush.
 
 # Ghid de practică
 
-Open Brush e aici un **instrument digital nou pentru exprimarea artistică**: desenul nu se mai face pe o suprafață, ci în jurul tău. Ca orice instrument, îl stăpânești prin practică. Secțiunea propune o progresie de exerciții care duce de la primele linii în aer până la un spațiu întreg în care se poate intra.
+Open Brush e aici un **instrument digital nou pentru exprimarea artistică**: desenul nu se mai face pe o suprafață, ci în jurul tău. Ca orice instrument, îl stăpânești prin practică. Practica e gândită ca **proces educațional** în cinci etape: descoperirea instrumentului, obiectul cu volum, elemente la scara unui spațiu, spațiul construit împreună și finisarea pentru expoziție. Vezi [Procesul pe etape](plan.md).
 
 ## Principii
 
@@ -22,10 +22,10 @@ Open Brush e aici un **instrument digital nou pentru exprimarea artistică**: de
 | Deschidere | 10 min | planul orei, regulile, rolurile |
 | Exercițiu | 20 min | toată lumea trece prin cască, pe rând (ture scurte) |
 | Discuție | 10 min | ce a mers, ce a fost greu |
-| Lucru la proiect | 60 min | grupele lucrează la spațiul lor, pe rând în cască |
+| Lucru la proiect | 60 min | lucrul etapei: obiectul fiecăruia, elementele la scara spațiului sau spațiul grupei |
 | Închidere | 20 min | capturi, salvare, curățare, fișa sesiunii |
 
 ## Pagini
 
-- [Exerciții](exercitii.md): exerciții progresive, fiecare cu obiectiv, durată și unelte.
-- [Plan pe săptămâni](plan.md): o propunere de distribuire pe anul școlar.
+- [Procesul pe etape](plan.md): cele cinci etape, cu perioade, obiective și rezultate.
+- [Exerciții](exercitii.md): exerciții grupate pe etape, fiecare cu obiectiv, mod și unelte.

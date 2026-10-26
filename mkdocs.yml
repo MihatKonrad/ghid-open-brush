@@ -131,8 +131,8 @@ nav:
       - Când ceva nu merge: protocoale/depanare.md
   - Practică:
       - practica/index.md
+      - Procesul pe etape: practica/plan.md
       - Exerciții: practica/exercitii.md
-      - Plan pe săptămâni: practica/plan.md
   - Resurse:
       - Glosar EN–RO: resurse/glosar.md
       - Video și linkuri: resurse/linkuri.md

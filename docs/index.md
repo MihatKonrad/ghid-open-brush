@@ -71,7 +71,7 @@ Un ghid practic pentru **desenul 3D în realitate virtuală** cu [Open Brush](ht
 | [Rețete](procese/index.md) | Sarcini concrete de la cap la coadă, în ordinea în care le faci. |
 | [Echipament](echipament/index.md) | Casca, cureaua cu baterie, încărcarea, controlerele. |
 | [Protocoale](protocoale/index.md) | Regulile de lucru în sală: pregătire, siguranță, igienă, arhivare. |
-| [Practică](practica/index.md) | Exerciții progresive pentru elevi și un plan pe săptămâni. |
+| [Practică](practica/index.md) | Procesul educațional pe etape și exercițiile pentru fiecare etapă. |
 | [Resurse](resurse/glosar.md) | Glosar engleză–română al butoanelor, clipuri, linkuri oficiale. |
 
 !!! note "Versiunea acoperită"
