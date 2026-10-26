@@ -1,0 +1,143 @@
+site_name: Ghid Open Brush
+site_description: Ghid practic în limba română pentru desenul 3D în realitate virtuală cu Open Brush, pentru profesori și elevi.
+site_author: coVR
+# Completează după ce creezi repo-ul:
+# site_url: https://<utilizator>.github.io/ghid-open-brush/
+# repo_url: https://github.com/<utilizator>/ghid-open-brush
+# edit_uri: edit/main/docs/
+
+copyright: >
+  <em>Spații pentru sine</em>, proiect realizat de coVR în parteneriat cu Liceul de Arte Plastice Timișoara.<br>
+  Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație.
+
+theme:
+  name: material
+  language: ro
+  custom_dir: overrides
+  logo: assets/img/cdp-asemt-alb.png
+  favicon: assets/img/covr-negru.png
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Trece la modul întunecat
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Trece la modul luminos
+  font:
+    text: Jost
+    code: JetBrains Mono
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - toc.follow
+    - content.tabs.link
+  icon:
+    admonition:
+      note: material/information-outline
+
+extra_css:
+  - assets/css/ghid.css
+
+plugins:
+  - search:
+      lang:
+        - ro
+        - en
+  - tags
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Acasă:
+      - index.md
+      - Start rapid: start-rapid.md
+  - Open Brush:
+      - open-brush/index.md
+      - Interfața: open-brush/interfata.md
+      - Desenul de bază: open-brush/desen.md
+      - Pensule: open-brush/pensule.md
+      - Culoare și variație: open-brush/culoare.md
+      - Unelte:
+          - open-brush/unelte/index.md
+          - Radieră: open-brush/unelte/radiera.md
+          - Linie dreaptă: open-brush/unelte/linie-dreapta.md
+          - Oglindă: open-brush/unelte/oglinda.md
+          - Pipetă: open-brush/unelte/pipeta.md
+          - Repictare: open-brush/unelte/repictare.md
+          - Selecție: open-brush/unelte/selectie.md
+          - Teleport și zbor: open-brush/unelte/deplasare.md
+          - Cameră foto: open-brush/unelte/camera.md
+          - Tăiere și unire: open-brush/unelte/taiere-unire.md
+      - Spațiul de lucru: open-brush/spatiu.md
+      - Straturi: open-brush/straturi.md
+      - Imagini și modele: open-brush/import.md
+      - Salvare și export: open-brush/salvare.md
+  - Rețete:
+      - procese/index.md
+      - Construiesc un spațiu personalizat: procese/spatiu-personalizat.md
+      - Desenez pornind de la o fotografie: procese/fotografie-referinta.md
+      - Lucrez în grup pe aceeași lucrare: procese/lucru-in-grup.md
+      - Fac imagini pentru portofoliu: procese/capturi.md
+      - Copiez lucrările pe calculator: procese/transfer.md
+      - Arăt pe ecran ce vede elevul: procese/proiectare.md
+  - Echipament:
+      - echipament/index.md
+      - Casca Meta Quest 3S: echipament/quest-3s.md
+      - Cureaua BoboVR S3 Pro: echipament/bobovr-s3-pro.md
+      - Controlerele în Open Brush: echipament/controlere.md
+  - Protocoale:
+      - protocoale/index.md
+      - Înainte de sesiune: protocoale/inainte.md
+      - În timpul sesiunii: protocoale/in-timpul.md
+      - După sesiune: protocoale/dupa.md
+      - Igienă și siguranță: protocoale/igiena-siguranta.md
+      - Salvare și arhivare: protocoale/arhivare.md
+      - Când ceva nu merge: protocoale/depanare.md
+  - Practică:
+      - practica/index.md
+      - Exerciții: practica/exercitii.md
+      - Plan pe săptămâni: practica/plan.md
+  - Resurse:
+      - Glosar EN–RO: resurse/glosar.md
+      - Video și linkuri: resurse/linkuri.md
+      - Despre ghid: resurse/despre.md
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn

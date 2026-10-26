@@ -1,0 +1,28 @@
+---
+title: Echipament
+description: Ce conține un set de lucru și cum îl ții în stare bună.
+---
+
+# Echipament
+
+Un **set de lucru** înseamnă:
+
+- [ ] o cască **Meta Quest 3S**;
+- [ ] o curea cu baterie **BoboVR S3 Pro** montată pe cască, în locul curelei originale;
+- [ ] o **baterie de rezervă** BoboVR B100 (dacă există), încărcată;
+- [ ] două **controlere** (stânga, dreapta), cu baterii AA încărcate sau de rezervă;
+- [ ] **cablul USB-C** și încărcătorul;
+- [ ] o **lavetă din microfibră** pentru lentile;
+- [ ] **șervețele umede fără alcool** pentru partea care atinge fața;
+- [ ] eticheta setului (de exemplu `C1`).
+
+## Pagini
+
+- [Casca Meta Quest 3S](quest-3s.md): pornire, reglaj, zona de siguranță, încărcare, depozitare.
+- [Cureaua BoboVR S3 Pro](bobovr-s3-pro.md): montaj, reglaj, bateria schimbabilă, ventilatorul.
+- [Controlerele în Open Brush](controlere.md): ce face fiecare buton.
+
+!!! protocol "Trei reguli care protejează echipamentul"
+    1. **Niciodată la soare.** Lumina directă a soarelui pe lentile arde ecranele în câteva secunde. Nu lăsați casca lângă fereastră și nu o purtați afară.
+    2. **Lentilele se curăță doar uscat**, cu laveta din microfibră. Fără apă, fără spray, fără șervețele umede.
+    3. **Căștile se pun jos cu lentilele acoperite** sau cu fața în jos pe o suprafață moale, nu se aruncă pe masă.
