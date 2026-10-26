@@ -47,8 +47,10 @@ Interfața Open Brush e în engleză. Tabelul traduce termenii pe care îi vezi 
 | Lights | lumini | [Spațiul de lucru](../open-brush/spatiu.md#lumini) |
 | Local Images / Videos / Models | imagini / video / modele locale | [Imagini și modele](../open-brush/import.md) |
 | Local Media Library | biblioteca media locală | [Imagini și modele](../open-brush/import.md) |
+| Manage Room | administrarea camerei (multiplayer) | [Multiplayer](../open-brush/multiplayer.md#administreaza-camera-proprietarul) |
 | Mirror | oglindă | [Oglindă](../open-brush/unelte/oglinda.md) |
 | Multi Mirror | oglinda multiplă | [Oglindă](../open-brush/unelte/oglinda.md#oglinda-multipla-multi-mirror) |
+| Multiplayer | desen în comun, în timp real | [Multiplayer](../open-brush/multiplayer.md) |
 | New Sketch | schiță nouă | [Interfața](../open-brush/interfata.md) |
 | Passthrough | vederea sălii reale | [Quest 3S](../echipament/quest-3s.md) |
 | Pin | fixează | [Imagini și modele](../open-brush/import.md) |
@@ -64,6 +66,7 @@ Interfața Open Brush e în engleză. Tabelul traduce termenii pe care îi vezi 
 | Select All | selectează tot | [Selecție](../open-brush/unelte/selectie.md) |
 | Selection | selecție | [Selecție](../open-brush/unelte/selectie.md) |
 | Self-lit | care luminează singură | [Pensule](../open-brush/pensule.md#pensule-care-lumineaza-singure) |
+| Set Shared Alignment / Align Play Space | colocare: alinierea căștilor din aceeași sală | [Multiplayer](../open-brush/multiplayer.md#in-aceeasi-sala-passthrough-si-colocare) |
 | Settings | setări | [Interfața](../open-brush/interfata.md#setari-utile-settings) |
 | Sketch | schiță (desenul, fișierul) | [Salvare și export](../open-brush/salvare.md) |
 | Sketchbook | caietul de schițe | [Salvare și export](../open-brush/salvare.md#caietul-de-schite-sketchbook) |

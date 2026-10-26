@@ -1,0 +1,85 @@
+---
+title: Multiplayer
+description: Mai mulți elevi desenează în același timp, în aceeași schiță, fiecare cu casca lui.
+tags:
+  - multiplayer
+  - grup
+---
+
+# Multiplayer
+
+<div class="pe-scurt" markdown>**Pe scurt:** 2–12 persoane desenează **în același timp**, în aceeași schiță, fiecare cu casca lui. · **Unde:** *Admin Panel → Multiplayer* · **Necesită:** internet pe toate căștile, aceeași versiune Open Brush</div>
+
+## Ce câștigi și ce pierzi
+
+| Avantaje | Limitări |
+| --- | --- |
+| toți lucrează deodată, nu pe rând | **nu sunt disponibile toate uneltele avansate** |
+| fiecare îi vede pe ceilalți desenând, în timp real | e nevoie de internet stabil pe toate căștile |
+| vorbesc între ei prin voce spațială | liniile celorlalți apar cu o mică întârziere |
+| cu colocarea, spațiul virtual se suprapune peste sala reală | doi elevi nu trebuie să editeze același obiect în același moment |
+
+!!! verifica "De verificat pe căștile noastre"
+    Notați exact ce unelte lipsesc sau nu funcționează în multiplayer în versiunea folosită (de exemplu selecția, straturile, importul) și completați lista aici.
+
+!!! tip "Când îl alegi"
+    Multiplayer e bun pentru **schițe comune rapide, explorare și discuție în interiorul spațiului**. Pentru construcția atentă, cu straturi, selecție și imagini de referință, lucrați **pe rând pe o singură cască** (vezi [Lucrez în grup](../procese/lucru-in-grup.md)). Cele două se pot combina: schițați împreună în multiplayer, apoi rafinați pe rând.
+
+## Creează sau intră într-o cameră
+
+1. **Admin Panel → Multiplayer.**
+2. Scrie un **pseudonim** (*nickname*). Pentru elevi: prenumele sau un cod de grupă, nu numele complet.
+3. Scrie un **nume de cameră** sau păstrează numele generat.
+4. Alege numărul maxim de participanți (implicit 4, maximum 12).
+5. **Join.** Dacă numele nu există, se creează camera și tu devii **proprietarul** ei.
+6. Ceilalți scriu **același nume de cameră** și intră.
+
+Numele camerei și pseudonimul sunt ținute minte pentru data viitoare.
+
+!!! protocol "Camere private"
+    Folosiți un nume de cameră greu de ghicit (de exemplu `lap-g1-x7k2`), nu „test” sau „clasa”. Oricine știe numele poate intra. Profesorul creează camera și rămâne proprietar.
+
+## Administrează camera (proprietarul)
+
+Din **Multiplayer → Manage Room**, proprietarul vede lista participanților și poate:
+
+- **Mute for me**: nu mai aude un participant (doar pentru sine);
+- **Mute for everyone**: oprește vocea unui participant pentru toți;
+- **View only**: participantul vede, dar nu poate desena;
+- **Kick User**: scoate un participant din cameră;
+- **Transfer room ownership**: dă controlul altcuiva.
+
+Setările de voce și *View only* se pot aplica și întregii camere. *View only* e util când un elev prezintă spațiul și ceilalți doar privesc.
+
+## Voce
+
+Vocea e **spațială**: îl auzi pe celălalt din direcția în care se află în scenă. Open Brush cere permisiunea de microfon. Dacă sunteți toți în aceeași sală, vă auziți oricum direct, așa că e bine să **opriți vocea pentru toată camera**, ca să nu apară ecou.
+
+## În aceeași sală: passthrough și colocare
+
+Când toți elevii sunt în aceeași încăpere:
+
+1. **Passthrough:** alegeți un mediu *passthrough*. Fiecare vede sala reală prin camerele căștii, cu desenul comun suprapus. Imaginea din camere **nu se transmite** celorlalți. Ieșiți din cameră înainte să reveniți la un mediu obișnuit.
+2. **Colocare manuală:** ca desenul să stea pentru toți **în același loc din sală**, căștile se aliniază după un reper comun:
+    1. alegeți un obiect fix, la îndemână, de exemplu **marginea unei mese**, și două colțuri ale ei: **A** și **B**;
+    2. proprietarul: **Multiplayer → Set Shared Alignment**, pune vârful controlerului pe A și apasă trăgaciul, apoi pe B și apasă trăgaciul. Verifică săgeata de la A spre B și confirmă cu trăgaciul. Panoul arată *Shared alignment ready*;
+    3. fiecare participant: **Align Play Space**, aceleași colțuri, **în aceeași ordine A → B**. Panoul arată *Play space aligned*.
+
+Dacă scena se decalează, alegeți **Realign Play Space**. Mutarea sau scalarea lumii strică alinierea; atunci proprietarul o reface.
+
+!!! warning "Siguranță în multiplayer în aceeași sală"
+    Cu mai mulți elevi cu cască în aceeași încăpere, riscul de ciocnire crește. Zonele de siguranță ale căștilor **nu știu unele de altele**. Lăsați spațiu mare între elevi, păstrați un paznic pentru fiecare 2–3 elevi și folosiți passthrough ca să se vadă între ei.
+
+## Salvare
+
+!!! verifica "De verificat pe căștile noastre"
+    Cine salvează schița comună și pe ce cască ajunge fișierul. Recomandare până la verificare: proprietarul camerei salvează, iar ceilalți salvează și ei o copie, înainte să iasă din cameră.
+
+## Limitări cunoscute
+
+- Liniile și obiectele mutate de alții apar cu o mică întârziere.
+- Doi elevi nu trebuie să editeze **același obiect în același timp**.
+- Toți trebuie să aibă **aceeași versiune** de Open Brush. Actualizați căștile împreună.
+- Rețeaua școlii poate bloca conexiunea. Testați înainte, iar la nevoie folosiți un hotspot.
+
+Detalii în documentația oficială: [Multiplayer](https://docs.openbrush.app/user-guide/multiplayer) și [Manual Colocation](https://docs.openbrush.app/user-guide/manual-colocation).

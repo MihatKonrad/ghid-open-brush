@@ -1,15 +1,25 @@
 ---
 title: Lucrez în grup pe aceeași lucrare
-description: Cum lucrează mai mulți elevi, pe rând, pe aceeași schiță.
+description: Cum lucrează mai mulți elevi pe aceeași schiță: pe rând pe o cască sau împreună, în multiplayer.
 tags:
   - rețetă
   - grup
   - straturi
+  - multiplayer
 ---
 
 # Lucrez în grup pe aceeași lucrare
 
-De obicei, un grup are o singură schiță comună și elevii lucrează **pe rând** în cască. Ca munca să nu se încurce și să nu se piardă:
+Un grup poate lucra la aceeași schiță în două feluri:
+
+| | Pe rând, pe o cască | Împreună, în multiplayer |
+| --- | --- | --- |
+| cum | elevii trec pe rând prin aceeași cască | fiecare are casca lui, toți desenează deodată |
+| unelte | **toate** (straturi, selecție, import, repictare) | **nu toate uneltele avansate** |
+| bun pentru | construcția atentă a spațiului | schițe rapide împreună, explorare, discuție în spațiu |
+| necesită | o cască | o cască de elev, internet, aceeași versiune Open Brush |
+
+Le puteți combina: **schițați împreună în multiplayer**, apoi **rafinați pe rând** pe o cască. Prima parte a paginii descrie lucrul pe rând; varianta multiplayer e [la final](#varianta-multiplayer).
 
 ## O singură schiță, o singură cască
 
@@ -42,3 +52,16 @@ Unul desenează, ceilalți nu stau degeaba:
 - Nu ștergeți și nu repictați liniile altui elev fără să-l întrebați.
 - Ca să încercați o variantă: copiați partea respectivă pe un strat nou și lucrați pe copie.
 - Orice greșeală se poate anula cu ++x++, cât timp schița nu a fost închisă.
+
+## Varianta multiplayer { #varianta-multiplayer }
+
+Toți elevii grupei desenează **în același timp**, fiecare cu casca lui, în aceeași schiță. Pașii tehnici sunt în pagina [Multiplayer](../open-brush/multiplayer.md). Pe scurt, pentru o sesiune:
+
+1. **Înainte:** toate căștile pe aceeași rețea, cu aceeași versiune Open Brush. Testați conexiunea.
+2. **Profesorul creează camera**, cu un nume greu de ghicit, și rămâne proprietar.
+3. Elevii intră cu **prenumele** ca pseudonim.
+4. Dacă sunteți în aceeași sală: mediu **passthrough**, **colocare** pe marginea unei mese, **vocea oprită** pentru toată camera.
+5. **Împărțiți spațiul:** fiecare elev are o zonă sau un element de care se ocupă, ca să nu editați același obiect în același timp.
+6. **Spațiu fizic:** distanță mare între elevi și un paznic la fiecare 2–3 elevi. Zonele de siguranță ale căștilor nu se văd între ele.
+7. **La final:** salvați schița comună (vezi [Salvare](../open-brush/multiplayer.md#salvare)), apoi continuați rafinarea pe rând, pe o singură cască, cu toate uneltele.
+
