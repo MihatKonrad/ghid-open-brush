@@ -1,5 +1,5 @@
 ---
-title: Ghid Open Brush
+title: Acasă
 hide:
   - toc
 ---
