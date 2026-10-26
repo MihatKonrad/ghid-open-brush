@@ -8,22 +8,22 @@ tags:
 
 # Multiplayer
 
-<div class="pe-scurt" markdown>**Pe scurt:** 2–12 persoane desenează **în același timp**, în aceeași schiță, fiecare cu casca lui. · **Unde:** *Admin Panel → Multiplayer* · **Necesită:** internet pe toate căștile, aceeași versiune Open Brush</div>
+<div class="pe-scurt" markdown>**Pe scurt:** 2–12 persoane desenează **în același timp**, în aceeași schiță, fiecare cu casca lui. · **Unde:** *Admin Panel → Multiplayer* · **Mod:** doar Beginner · **Necesită:** internet pe toate căștile, aceeași versiune Open Brush</div>
 
 ## Ce câștigi și ce pierzi
 
 | Avantaje | Limitări |
 | --- | --- |
-| toți lucrează deodată, nu pe rând | **nu sunt disponibile toate uneltele avansate** |
+| toți lucrează deodată, nu pe rând | **merge doar în modul Beginner**, fără uneltele din Advanced |
 | fiecare îi vede pe ceilalți desenând, în timp real | e nevoie de internet stabil pe toate căștile |
 | vorbesc între ei prin voce spațială | liniile celorlalți apar cu o mică întârziere |
 | cu colocarea, spațiul virtual se suprapune peste sala reală | doi elevi nu trebuie să editeze același obiect în același moment |
 
-!!! verifica "De verificat pe căștile noastre"
-    Notați exact ce unelte lipsesc sau nu funcționează în multiplayer în versiunea folosită (de exemplu selecția, straturile, importul) și completați lista aici.
+!!! warning "Multiplayer funcționează doar în modul Beginner"
+    În versiunea actuală, multiplayer nu merge cu modul **Advanced**. Ai pensulele, culorile, radiera, linia dreaptă, oglinda, mediul, camera și teleportul, dar **nu** ai pipeta, repictarea, selecția, zborul, tăierea și unirea, nici panoul *Extras* (straturi, lumini, ghidaje, import de imagini). Verificați din nou după fiecare actualizare a aplicației.
 
 !!! tip "Când îl alegi"
-    Multiplayer e bun pentru **schițe comune rapide, explorare și discuție în interiorul spațiului**. Pentru construcția atentă, cu straturi, selecție și imagini de referință, lucrați **pe rând pe o singură cască** (vezi [Lucrez în grup](../procese/lucru-in-grup.md)). Cele două se pot combina: schițați împreună în multiplayer, apoi rafinați pe rând.
+    Multiplayer e bun pentru **schițe comune rapide, explorare și discuție în interiorul spațiului**. Pentru construcția atentă, cu uneltele din Advanced (straturi, selecție, imagini de referință, lumini), lucrați **pe rând pe o singură cască** (vezi [Lucrez în grup](../procese/lucru-in-grup.md)). Cele două se pot combina: schițați împreună în multiplayer, apoi rafinați pe rând.
 
 ## Creează sau intră într-o cameră
 

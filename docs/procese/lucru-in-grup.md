@@ -15,7 +15,7 @@ Un grup poate lucra la aceeași schiță în două feluri:
 | | Pe rând, pe o cască | Împreună, în multiplayer |
 | --- | --- | --- |
 | cum | elevii trec pe rând prin aceeași cască | fiecare are casca lui, toți desenează deodată |
-| unelte | **toate** (straturi, selecție, import, repictare) | **nu toate uneltele avansate** |
+| unelte | **toate**, în modul Advanced (straturi, selecție, import, repictare) | doar modul **Beginner** (pensule, culori, radieră, linie dreaptă, oglindă) |
 | bun pentru | construcția atentă a spațiului | schițe rapide împreună, explorare, discuție în spațiu |
 | necesită | o cască | o cască de elev, internet, aceeași versiune Open Brush |
 
@@ -58,10 +58,11 @@ Unul desenează, ceilalți nu stau degeaba:
 Toți elevii grupei desenează **în același timp**, fiecare cu casca lui, în aceeași schiță. Pașii tehnici sunt în pagina [Multiplayer](../open-brush/multiplayer.md). Pe scurt, pentru o sesiune:
 
 1. **Înainte:** toate căștile pe aceeași rețea, cu aceeași versiune Open Brush. Testați conexiunea.
-2. **Profesorul creează camera**, cu un nume greu de ghicit, și rămâne proprietar.
-3. Elevii intră cu **prenumele** ca pseudonim.
-4. Dacă sunteți în aceeași sală: mediu **passthrough**, **colocare** pe marginea unei mese, **vocea oprită** pentru toată camera.
-5. **Împărțiți spațiul:** fiecare elev are o zonă sau un element de care se ocupă, ca să nu editați același obiect în același timp.
-6. **Spațiu fizic:** distanță mare între elevi și un paznic la fiecare 2–3 elevi. Zonele de siguranță ale căștilor nu se văd între ele.
-7. **La final:** salvați schița comună (vezi [Salvare](../open-brush/multiplayer.md#salvare)), apoi continuați rafinarea pe rând, pe o singură cască, cu toate uneltele.
+2. Toate căștile în modul **Beginner** (multiplayer nu merge în Advanced).
+3. **Profesorul creează camera**, cu un nume greu de ghicit, și rămâne proprietar.
+4. Elevii intră cu **prenumele** ca pseudonim.
+5. Dacă sunteți în aceeași sală: mediu **passthrough**, **colocare** pe marginea unei mese, **vocea oprită** pentru toată camera.
+6. **Împărțiți spațiul:** fiecare elev are o zonă sau un element de care se ocupă, ca să nu editați același obiect în același timp.
+7. **Spațiu fizic:** distanță mare între elevi și un paznic la fiecare 2–3 elevi. Zonele de siguranță ale căștilor nu se văd între ele.
+8. **La final:** salvați schița comună (vezi [Salvare](../open-brush/multiplayer.md#salvare)), apoi continuați rafinarea pe rând, pe o singură cască, în modul Advanced, cu toate uneltele.
 

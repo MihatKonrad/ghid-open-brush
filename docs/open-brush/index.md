@@ -21,7 +21,7 @@ Spre deosebire de desenul pe hârtie sau pe tabletă, linia nu stă pe o suprafa
 | împarți lucrarea pe părți, pe care le ascunzi sau le arăți | straturile | [Straturi](straturi.md) |
 | pornești de la o fotografie sau o schiță | biblioteca media | [Imagini și modele](import.md) |
 | te miști prin desene mari | teleport, zbor, mutarea lumii | [Teleport și zbor](unelte/deplasare.md) |
-| desenezi împreună cu alții, fiecare cu casca lui | multiplayer | [Multiplayer](multiplayer.md) |
+| desenezi împreună cu alții, fiecare cu casca lui | multiplayer (doar în Beginner) | [Multiplayer](multiplayer.md) |
 | păstrezi și arăți lucrarea | salvare, fotografii, GIF-uri, export 3D | [Salvare și export](salvare.md), [Cameră foto](unelte/camera.md) |
 
 ## Două moduri: Beginner și Advanced
