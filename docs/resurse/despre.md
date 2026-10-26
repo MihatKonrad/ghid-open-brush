@@ -5,23 +5,29 @@ description: Cine a realizat ghidul, în ce proiect, licență, cum se actualize
 
 # Despre ghid
 
-Ghidul a fost realizat de **coVR** în proiectul *Spații pentru sine*, în parteneriat cu **Liceul de Arte Plastice Timișoara**, în programul *Școli creative 2026-2027*.
+Ghidul este realizat și oferit de **coVR**, în parteneriat cu **Liceul de Arte Plastice Timișoara**, în proiectul *Spații pentru sine* din programul *Școli creative 2026-2027*.
 
 În proiect, elevii liceului construiesc în realitate virtuală spații personalizate, desenate cu Open Brush. Ghidul îi ajută pe profesori să lucreze cu elevii între atelierele cu facilitatorii. E publicat ca **resursă deschisă**, pentru oricine lucrează cu Open Brush în română.
 
-Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație.
+Conținutul ghidului aparține autorilor săi. Finanțatorul nu este responsabil pentru conținut.
 
 <div class="sps-logos-despre" markdown>
 <figure markdown>
-![Centrul de Proiecte al Municipiului Timișoara și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-negru.png#only-light){ .cdp }
-![Centrul de Proiecte al Municipiului Timișoara și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-alb.png#only-dark){ .cdp }
-<figcaption>Finanțator</figcaption>
-</figure>
-<figure markdown>
 [![coVR](../assets/img/covr-negru.png#only-light){ .covr }](https://covr.ro)
 [![coVR](../assets/img/covr-alb.png#only-dark){ .covr }](https://covr.ro)
-<figcaption>Realizator</figcaption>
+<figcaption>Realizat de</figcaption>
 </figure>
+<figure markdown>
+<span class="partener">Liceul de Arte Plastice<br>Timișoara</span>
+<figcaption>În parteneriat cu</figcaption>
+</figure>
+</div>
+
+<div class="sps-finantare-despre" markdown>
+![Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-negru.png#only-light){ .cdp }
+![Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-alb.png#only-dark){ .cdp }
+
+Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație.
 </div>
 
 ## Versiune

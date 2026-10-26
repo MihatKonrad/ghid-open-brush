@@ -152,21 +152,29 @@
   .md-header__title { visibility: hidden; }
 }
 
-/* Logo-uri pe pagina „Despre ghid” */
+/* Logo-uri pe pagina „Despre ghid”: realizator și partener sus, finanțarea separat, dedesubt */
 .md-typeset .sps-logos-despre {
   display: flex;
   align-items: flex-end;
-  justify-content: space-between;
   flex-wrap: wrap;
-  gap: 2.5rem;
-  margin: 2rem 0 1rem;
-  padding: 1.5rem 0;
+  gap: 3rem;
+  margin: 2rem 0 0;
+  padding-top: 1.5rem;
   border-top: 1px solid var(--md-default-fg-color--lightest);
-  border-bottom: 1px solid var(--md-default-fg-color--lightest);
 }
-.md-typeset .sps-logos-despre figure { margin: 0; }
-.md-typeset .sps-logos-despre img.cdp { height: 56px; width: auto; }
+.md-typeset .sps-logos-despre figure { margin: 0; align-items: flex-start; }
 .md-typeset .sps-logos-despre img.covr { height: 56px; width: auto; }
-.md-typeset .sps-logos-despre figcaption {
-  font-size: .65rem; opacity: .7; margin-top: .6rem; max-width: none;
+.md-typeset .sps-logos-despre .partener {
+  display: block; font-weight: 500; font-size: .9rem; line-height: 1.25; text-align: left;
 }
+.md-typeset .sps-logos-despre figcaption {
+  font-size: .65rem; opacity: .7; margin: .6rem 0 0; max-width: none; text-align: left;
+}
+.md-typeset .sps-finantare-despre {
+  margin: 1.5rem 0 1rem;
+  padding: 1.2rem 0 1.5rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+  font-size: .7rem; opacity: .9;
+}
+.md-typeset .sps-finantare-despre img.cdp { height: 44px; width: auto; }
+.md-typeset .sps-finantare-despre p { margin: .5rem 0 0; }

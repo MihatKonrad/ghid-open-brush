@@ -7,14 +7,14 @@ repo_name: ghid-open-brush
 edit_uri: edit/main/docs/
 
 copyright: >
-  <em>Spații pentru sine</em>, proiect realizat de coVR în parteneriat cu Liceul de Arte Plastice Timișoara.<br>
-  Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație.
+  Ghid realizat de coVR în parteneriat cu Liceul de Arte Plastice Timișoara,
+  în proiectul <em>Spații pentru sine</em>.
 
 theme:
   name: material
   language: ro
   custom_dir: overrides
-  logo: assets/img/cdp-asemt-alb.png
+  logo: assets/img/covr-alb.png
   favicon: assets/img/covr-negru.png
   palette:
     - media: "(prefers-color-scheme: light)"
