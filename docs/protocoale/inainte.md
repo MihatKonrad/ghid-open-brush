@@ -21,7 +21,8 @@ tags:
 - [ ] **căștile pornite**, nivelul bateriilor verificat (căști și B100 peste 50%);
 - [ ] **zona de siguranță** (*boundary*) verificată sau retrasată pe fiecare cască;
 - [ ] **Open Brush deschis o dată** pe fiecare cască (fără actualizări-surpriză la începutul orei);
-- [ ] **transmiterea pe ecran** testată, dacă o folosiți (vezi [Arăt pe ecran ce vede elevul](../procese/proiectare.md));
+- [ ] **Facilitator Suite** deschis pe laptop, căștile grupei vizibile în listă (vezi [Meta Horizon managed services](../echipament/horizon-managed-services.md)); Open Brush poate fi lansat de acolo pe toate căștile;
+- [ ] **transmiterea pe ecran** testată (vezi [Arăt pe ecran ce vede elevul](../procese/proiectare.md));
 - [ ] **materialele de igienă**: lavete din microfibră, șervețele fără alcool, dezinfectant pentru mâini;
 - [ ] **fișa sesiunii** pregătită (vezi [După sesiune](dupa.md#fisa-sesiunii)).
 

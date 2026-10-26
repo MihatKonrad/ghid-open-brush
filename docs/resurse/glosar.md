@@ -32,11 +32,13 @@ Interfața Open Brush e în engleză. Tabelul traduce termenii pe care îi vezi 
 | Experimental Mode | modul experimental | [Interfața](../open-brush/interfata.md#setari-utile-settings) |
 | Export | export (în formate 3D) | [Salvare și export](../open-brush/salvare.md#export-3d) |
 | Extras | panoul de extra-uri | [Interfața](../open-brush/interfata.md) |
+| Facilitator Suite | pagina din care profesorul vede căștile | [Meta Horizon managed services](../echipament/horizon-managed-services.md) |
 | Fly | zbor | [Teleport și zbor](../open-brush/unelte/deplasare.md#zbor) |
 | FOV (Field of View) | câmp vizual | [Cameră foto](../open-brush/unelte/camera.md) |
 | Grip | butonul lateral (de apucat) | [Controlere](../echipament/controlere.md) |
 | Group / Ungroup | grupează / degrupează | [Selecție](../open-brush/unelte/selectie.md) |
 | Guides | ghidaje | [Spațiul de lucru](../open-brush/spatiu.md#ghidaje) |
+| HMS (Horizon managed services) | gestionarea centrală a căștilor | [Meta Horizon managed services](../echipament/horizon-managed-services.md) |
 | Hot-swap | schimbarea bateriei fără oprire | [BoboVR](../echipament/bobovr-s3-pro.md#bateria-b100) |
 | Invert Selection | inversează selecția | [Selecție](../open-brush/unelte/selectie.md) |
 | Jitter | variație aleatorie | [Culoare](../open-brush/culoare.md#variatie-aleatorie-jitter) |

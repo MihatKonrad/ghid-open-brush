@@ -17,8 +17,9 @@ Pentru fiecare cască folosită:
 | **Desenatorul** | elevul cu casca | desenează, salvează, spune când are nevoie de ajutor |
 | **Paznicul** | un coleg | stă la marginea zonei; nu lasă pe nimeni să intre; avertizează dacă desenatorul se apropie de un obstacol |
 | **Ochiul** | colegii | urmăresc pe ecran (dacă există transmitere), dau idei, notează |
+| **Facilitatorul** | profesorul | urmărește toate căștile din [Facilitator Suite](../echipament/horizon-managed-services.md), ajută verbal pe cine s-a blocat, observă semnalele de disconfort |
 
-Rolurile se schimbă la fiecare rotație.
+Rolurile elevilor se schimbă la fiecare rotație.
 
 ## Durată și pauze
 

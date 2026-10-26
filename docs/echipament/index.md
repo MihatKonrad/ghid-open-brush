@@ -21,6 +21,7 @@ Un **set de lucru** înseamnă:
 - [Casca Meta Quest 3S](quest-3s.md): pornire, reglaj, zona de siguranță, încărcare, depozitare.
 - [Cureaua BoboVR S3 Pro](bobovr-s3-pro.md): montaj, reglaj, bateria schimbabilă, ventilatorul.
 - [Controlerele în Open Brush](controlere.md): ce face fiecare buton.
+- [Meta Horizon managed services](horizon-managed-services.md): căștile gestionate central și Facilitator Suite, din care profesorul vede ce fac elevii.
 
 !!! protocol "Trei reguli care protejează echipamentul"
     1. **Niciodată la soare.** Lumina directă a soarelui pe lentile arde ecranele în câteva secunde. Nu lăsați casca lângă fereastră și nu o purtați afară.
