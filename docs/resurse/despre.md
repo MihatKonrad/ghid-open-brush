@@ -30,4 +30,4 @@ Textul ghidului este publicat sub licența [Creative Commons Atribuire 4.0 Inter
 
 ## Sugestii și corecturi
 
-Ai găsit o greșeală sau lipsește ceva? Scrie-ne prin [covr.ro](https://covr.ro) sau deschide o sesizare (*issue*) în depozitul GitHub al ghidului.
+Ai găsit o greșeală sau lipsește ceva? Scrie-ne prin [covr.ro](https://covr.ro) sau deschide o [sesizare pe GitHub](https://github.com/MihatKonrad/ghid-open-brush/issues).

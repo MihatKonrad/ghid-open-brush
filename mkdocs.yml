@@ -1,10 +1,10 @@
 site_name: Ghid Open Brush
 site_description: Ghid practic în limba română pentru desenul 3D în realitate virtuală cu Open Brush, pentru profesori și elevi.
 site_author: coVR
-# Completează după ce creezi repo-ul:
-# site_url: https://<utilizator>.github.io/ghid-open-brush/
-# repo_url: https://github.com/<utilizator>/ghid-open-brush
-# edit_uri: edit/main/docs/
+site_url: https://mihatkonrad.github.io/ghid-open-brush/
+repo_url: https://github.com/MihatKonrad/ghid-open-brush
+repo_name: ghid-open-brush
+edit_uri: edit/main/docs/
 
 copyright: >
   <em>Spații pentru sine</em>, proiect realizat de coVR în parteneriat cu Liceul de Arte Plastice Timișoara.<br>

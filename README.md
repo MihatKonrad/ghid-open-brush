@@ -74,7 +74,7 @@ mkdocs build --strict
 
 1. Pe GitHub: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
 2. În `mkdocs.yml`, completează `site_url` și `repo_url` cu adresa reală.
-3. Fă push pe `main`. Adresa site-ului: `https://<utilizator>.github.io/ghid-open-brush/`.
+3. Fă push pe `main`. Adresa site-ului: https://mihatkonrad.github.io/ghid-open-brush/
 
 ## Licență
 
