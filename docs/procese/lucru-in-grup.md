@@ -55,3 +55,5 @@ Toți elevii grupei desenează **în același timp**, fiecare cu casca lui, în 
 5. Spațiul fizic dintre elevi rămâne liber: în passthrough, zonele de siguranță ale căștilor nu se afișează.
 6. La final, schița comună se salvează (vezi [Salvare](../open-brush/multiplayer.md#salvare)).
 
+La întâlnirile online, facilitatorul intră în aceeași cameră de la distanță. El vede desenul suprapus peste propriul spațiu, iar cum se aliniază cu sala din școală vede din transmiterea căștilor elevilor (vezi [Participant de la distanță](../open-brush/multiplayer.md#participant-de-la-distanta)).
+

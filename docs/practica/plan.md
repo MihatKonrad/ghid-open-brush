@@ -53,6 +53,9 @@ Se pornește de la ce au realizat elevii individual: schițele și ideile despre
 - **pe rând**, fiecare elev intrând în lucrare prin cască (vezi [Lucrez în grup](../procese/lucru-in-grup.md));
 - **simultan**, mai mulți elevi în același spațiu, în [multiplayer](../open-brush/multiplayer.md) (doar în modul Beginner). Această metodă stă la baza întâlnirilor online de ghidaj.
 
+!!! note "Față de cererea de finanțare"
+    La momentul scrierii cererii, multiplayer nu avea passthrough, de aceea lucrul simultan era descris „fără passthrough, în același spațiu virtual”. Acum multiplayer are passthrough: elevii pot lucra simultan în același spațiu real. La întâlnirile online, facilitatorul vede desenul suprapus peste propriul spațiu, iar raportarea la sala din școală o face prin transmiterea din căștile elevilor (vezi [Participant de la distanță](../open-brush/multiplayer.md#participant-de-la-distanta)).
+
 Tot în martie, grupurile stabilesc cum transpun în desen 3D **reperele fizice ale sălii** (o fereastră, un colț, obiecte-cheie) ca parte integrantă a lucrării (vezi [Stratul de repere](../procese/repere.md)).
 
 După atelierele din martie urmează **întâlniri online de ghidaj din două în două săptămâni**, câte una cu fiecare grup: cu cele două căști din școală, unul-doi reprezentanți prezintă lucrarea comună și direcția. Konrad Mihat oferă feedback tehnic și pe compoziția spațiului, iar Loredana Larionescu lucrează pe zona de reflexie și de sens al temei. Între întâlniri, grupurile lucrează în sală, cu profesorul-custode. Profesorul poate urmări ce fac elevii din [Facilitator Suite](../echipament/horizon-managed-services.md).

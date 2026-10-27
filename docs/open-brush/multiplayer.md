@@ -57,18 +57,26 @@ Vocea e **spațială**: îl auzi pe celălalt din direcția în care se află î
 
 ## În aceeași sală: passthrough și colocare
 
-Când toți elevii sunt în aceeași încăpere:
+Multiplayer funcționează acum și în passthrough: elevii pot lucra **în același spațiu real**, fiecare cu casca lui, pe aceeași lucrare. Când toți elevii sunt în aceeași încăpere:
 
 1. **Passthrough:** alegeți un mediu *passthrough*. Fiecare vede sala reală prin camerele căștii, cu desenul comun suprapus. Imaginea din camere **nu se transmite** celorlalți. Ieșiți din cameră înainte să reveniți la un mediu obișnuit.
 2. **Colocare manuală:** ca desenul să stea pentru toți **în același loc din sală**, căștile se aliniază după un reper comun:
-    1. alegeți un obiect fix, la îndemână, de exemplu **marginea unei mese**, și două colțuri ale ei: **A** și **B**;
+    1. alegeți un reper **fix** al sălii, la îndemână și cât mai orizontal, de exemplu marginea unui pervaz, și două puncte clare pe el: **A** și **B** (nu un obiect care se poate muta, ca o masă sau un scaun; vezi [Stratul de repere](../procese/repere.md));
     2. proprietarul: **Multiplayer → Set Shared Alignment**, pune vârful controlerului pe A și apasă trăgaciul, apoi pe B și apasă trăgaciul. Verifică săgeata de la A spre B și confirmă cu trăgaciul. Panoul arată *Shared alignment ready*;
     3. fiecare participant: **Align Play Space**, aceleași colțuri, **în aceeași ordine A → B**. Panoul arată *Play space aligned*.
 
 Dacă scena se decalează, alegeți **Realign Play Space**. Mutarea sau scalarea lumii strică alinierea; atunci proprietarul o reface.
 
 !!! warning "Siguranță în multiplayer în aceeași sală"
-    Cu mai mulți elevi cu cască în aceeași încăpere, riscul de ciocnire crește. Zonele de siguranță ale căștilor **nu știu unele de altele**. Lăsați spațiu mare între elevi, păstrați un paznic pentru fiecare 2–3 elevi și folosiți passthrough ca să se vadă între ei.
+    Cu mai mulți elevi cu cască în aceeași încăpere, riscul de ciocnire crește. Zonele de siguranță ale căștilor **nu știu unele de altele**, iar în passthrough Open Brush nu le afișează. Lăsați spațiu mare între elevi; în passthrough se văd între ei.
+
+## Participant de la distanță { #participant-de-la-distanta }
+
+Un participant care nu e în sală (de exemplu facilitatorul, la întâlnirile online de ghidaj) intră în aceeași cameră multiplayer de oriunde:
+
+- în passthrough, el vede desenul comun **suprapus peste propria lui cameră**, nu peste sala din școală;
+- colocarea nu se aplică pentru el, pentru că nu e în aceeași încăpere;
+- ca să vadă cum stă desenul față de sala reală, se uită la **transmiterea din căștile elevilor** (vezi [Facilitator Suite](../echipament/horizon-managed-services.md) și [Arăt pe ecran ce vede elevul](../procese/proiectare.md)).
 
 ## Salvare
 
