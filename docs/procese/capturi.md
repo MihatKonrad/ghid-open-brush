@@ -1,6 +1,6 @@
 ---
 title: Fac imagini pentru portofoliu
-description: Fotografii, GIF-uri, imagini 360° și video din desen.
+description: Cine face documentarea lucrărilor și unde ajung fișierele.
 tags:
   - rețetă
   - export
@@ -9,26 +9,12 @@ tags:
 
 # Fac imagini pentru portofoliu
 
-Imaginile arată evoluția spațiilor și sunt utile pentru expoziție și pentru raportare. Cu [camera foto](../open-brush/unelte/camera.md) din Open Brush faci fotografii (*Snapshot*), imagini 360° (*360 Snapshot*) și GIF-uri (*Auto-Gif*, *5 Second Gif*).
+Elevii și profesorii **nu trebuie să facă fotografii sau înregistrări** ale lucrărilor. Documentarea pentru portofolii (imagini, înregistrări, parcursuri prin lucrare) o face echipa coVR în ultima săptămână, pentru că are alte aspecte tehnice legate de cameră.
 
-!!! verifica "De verificat în passthrough"
-    Dacă fotografiile și GIF-urile făcute cu camera din Open Brush includ și sala reală sau doar desenul. Înregistrarea de sistem a căștii (mai jos) ar trebui să arate ce vede elevul.
+Pentru cine vrea totuși o imagine rapidă:
 
-## Pași
-
-1. Salvează schița.
-2. Ascunde straturile pe care nu vrei să le arăți (vezi [Straturi](../open-brush/straturi.md)).
-3. Din **Camera Options** (ține apăsat pe *Camera*): oprește **watermark** (sigla Open Brush) și pornește **smoothing** (netezire) pentru GIF-uri.
-4. Alege **Camera** și modul dorit, cu joystick-ul mâinii-pensulă.
-5. Fă capturile. Ține camera nemișcată până se termină captura, mai ales la imaginea 360°.
-6. Copiază imaginile pe calculator (vezi [Copiez lucrările pe calculator](transfer.md)).
-
-## Video
-
-Open Brush nu face video direct pe Quest. Cea mai simplă soluție e **înregistrarea căștii**: meniul Meta → **Camera** → **Record video**. Videoul are interfața Open Brush cu tot: înainte de înregistrare, închide panourile de care nu ai nevoie.
-
-!!! verifica "De verificat pe cască"
-    Numele exacte ale opțiunilor din meniul Meta se pot schimba odată cu actualizările căștii.
+- [camera foto](../open-brush/unelte/camera.md) din Open Brush face fotografii și GIF-uri doar cu desenul (nu vede passthrough);
+- imaginea cu sala reală se obține din camera căștii Quest sau din transmitere (vezi [Arăt pe ecran ce vede elevul](proiectare.md)).
 
 ## Unde ajung fișierele
 

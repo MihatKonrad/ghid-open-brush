@@ -20,8 +20,8 @@ Schițele, fotografiile și GIF-urile stau în memoria căștii. Le copiezi pe c
     - **Windows**: în *File Explorer* apare dispozitivul **Quest 3S**. Deschide **Internal shared storage**.
     - **macOS**: e nevoie de un program pentru dispozitive Android, de exemplu [OpenMTP](https://openmtp.ganeshrvel.com/) (gratuit).
 
-!!! verifica "Dacă nu apare casca"
-    Scoate cablul, pune casca pe cap și conectează din nou: mesajul de acces apare doar când casca e activă. Încearcă și alt cablu sau alt port.
+!!! info "Setare făcută de echipă"
+    Căștile sunt setate din Meta Horizon managed services ca să apară pe calculator prin USB. Dacă nu apare casca, scoate cablul, pune casca pe cap și conectează din nou: mesajul de acces apare doar când casca e activă.
 
 ## Copiază din cască pe calculator
 

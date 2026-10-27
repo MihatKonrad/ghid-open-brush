@@ -28,6 +28,9 @@ tags:
 | **Depth** | o fotografie plus hărți de adâncime | pentru utilizări avansate |
 | **Video** | — | **nu există pe Quest**; vezi mai jos |
 
+!!! info "În passthrough"
+    Camera din Open Brush **nu vede passthrough**: fotografiile și GIF-urile arată doar desenul, fără sala reală. Pentru imagini cu sala se folosește camera căștii Quest sau transmiterea (casting).
+
 Fotografiile se salvează în dosarul **Open Brush/Snapshots**, iar GIF-urile în **Open Brush/Videos**, în memoria căștii. Cum le copiezi pe calculator: [Copiez lucrările pe calculator](../../procese/transfer.md).
 
 ## Setările camerei (Advanced)

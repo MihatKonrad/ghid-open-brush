@@ -19,15 +19,12 @@ Meta Quest 3S este o cască **autonomă**: are procesor și baterie proprii și 
 
 ## Reglaj { #reglaj }
 
-Pe căștile noastre, cureaua originală e înlocuită cu **BoboVR S3 Pro**. Reglajul se face din curea: vezi [Cureaua BoboVR S3 Pro](bobovr-s3-pro.md#reglaj).
+Pe căștile noastre, cureaua originală e înlocuită cu **BoboVR S3 Pro** (vezi [Cureaua BoboVR S3 Pro](bobovr-s3-pro.md#reglaj)).
 
-1. Pune casca din față spre spate, ca pe o șapcă, cu rotița curelei slăbită.
-2. Strânge rotița de la spate până casca stă fix când dai din cap, dar fără să apese pe frunte sau pe obraji.
-3. Dacă imaginea e încețoșată, mișcă puțin casca în sus sau în jos pe față până devine clară.
+1. **Punerea:** întâi **în față**, pe ochi și frunte, apoi se reglează **pe spate**, cu rotița.
+2. Dacă imaginea e încețoșată, mișcă puțin casca în sus sau în jos pe față până devine clară.
+3. **Scoaterea:** întâi **în spate**, apoi **în față**. Ordinea contează mai ales pentru elevii cu ochelari.
 4. **Distanța dintre lentile:** Quest 3S are trei poziții. Cu casca scoasă, împinge ușor lentilele spre stânga sau spre dreapta, ținându-le de margini, până în poziția potrivită. Pentru cei mai mulți elevi, poziția din mijloc e potrivită.
-
-!!! tip "Ochelari"
-    Elevii cu ochelari îi pot purta în cască dacă rama nu e foarte lată. Pune casca **întâi pe ochelari**, apoi pe cap, ca să nu zgârii lentilele.
 
 ## Zona de siguranță { #zona-de-siguranta }
 
@@ -43,12 +40,7 @@ Zona tot se stabilește la pornirea căștii și o verificați la începutul fie
 
 ## Vederea sălii (passthrough)
 
-Quest 3S îți poate arăta sala reală prin camerele exterioare. În Open Brush folosim pentru asta **mediul Passthrough**, în care elevii desenează direct în sală (vezi [Passthrough](../open-brush/spatiu.md#passthrough)).
-
-În afara Open Brush, **butonul de acțiune** (*Action button*), jos pe partea stângă a căștii, comută între imaginea virtuală și imaginea sălii.
-
-!!! verifica "De verificat pe căștile noastre"
-    Funcția butonului de acțiune se poate schimba din setările căștii. Verificați că e setat pe *passthrough*.
+Quest 3S îți poate arăta sala reală prin camerele exterioare. În Open Brush folosim pentru asta **mediul Passthrough**, în care elevii desenează direct în sală (vezi [Passthrough](../open-brush/spatiu.md#passthrough)). Setarea Passthrough se salvează cu schița.
 
 ## Încărcare
 

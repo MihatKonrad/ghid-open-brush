@@ -11,7 +11,7 @@ Pentru cine pune casca pentru prima dată. Durează în jur de 15 minute. Restul
     Ghidul presupune un desenator **dreptaci**: mâna dreaptă **desenează** (o numim *mâna-pensulă*), mâna stângă ține **paleta** cu meniurile (*mâna-paletă*). Pentru stângaci, vezi pasul 6.
 
 1. **Verifică bateriile.** Casca și bateria curelei BoboVR trebuie să fie încărcate. Detalii: [Cureaua BoboVR S3 Pro](echipament/bobovr-s3-pro.md#incarcare).
-2. **Pune casca și reglează-o.** Slăbește rotița de la spate, pune casca din față spre spate, apoi strânge rotița până stă fix, fără să apese pe față. Imaginea trebuie să fie clară; dacă e încețoșată, mișcă puțin casca în sus sau în jos. Detalii: [Casca Meta Quest 3S](echipament/quest-3s.md#reglaj).
+2. **Pune casca și reglează-o.** Întâi în față, pe ochi și frunte, apoi reglezi pe spate, cu rotița. (La scoatere: întâi spatele, apoi fața.) Imaginea trebuie să fie clară; dacă e încețoșată, mișcă puțin casca în sus sau în jos. Detalii: [Casca Meta Quest 3S](echipament/quest-3s.md#reglaj).
 3. **Verifică zona de lucru.** Spațiul din jurul elevului trebuie să fie liber: în passthrough, Open Brush ascunde zona de siguranță a căștii. Detalii: [Zona de siguranță](echipament/quest-3s.md#zona-de-siguranta).
 4. **Pornește Open Brush.** Apasă butonul Meta de pe controlerul drept, deschide **Biblioteca de aplicații** și alege **Open Brush**.
 5. **Deschide o schiță nouă și setează Passthrough.** La pornire se deschide *Sketchbook* (caietul de schițe). Alege **New Sketch** (schiță nouă). **Primul pas** la orice schiță nouă: din panoul *Environment*, alege mediul **Passthrough**, ca să vezi sala reală și să desenezi în ea. Detalii: [Passthrough](open-brush/spatiu.md#passthrough).

@@ -21,6 +21,8 @@ Ce se schimbă în passthrough:
 - **Comenzile scenei** sunt în fereastra mediului Passthrough (deschizi *Environment* cât timp e selectat Passthrough):
     - **Lock Scene Transform** blochează sau permite mutarea lumii;
     - **Reset Scene Transform** readuce desenul în poziția, orientarea și mărimea inițiale.
+- **Setarea Passthrough se salvează cu schița**: la redeschidere, schița pornește tot în passthrough.
+- **Camera foto din Open Brush nu vede passthrough**: fotografiile și GIF-urile ei arată doar desenul. Imaginea cu sala reală se obține din cameră/transmiterea căștii Quest (vezi [Arăt pe ecran ce vede elevul](../procese/proiectare.md)).
 - **Zona de siguranță a căștii nu se mai afișează** cât timp mediul Passthrough e activ. Elevii văd sala, dar zona fizică trebuie să rămână liberă (vezi [În timpul sesiunii](../protocoale/in-timpul.md#siguranta-fizica)).
 
 !!! info "Desenul rămâne legat de locul real"
@@ -46,8 +48,8 @@ Scena are trei lumini, pe care le poți colora și orienta:
 - Luminile se salvează cu schița.
 - Pensulele care luminează singure nu sunt afectate de lumini (vezi [Pensule](pensule.md#pensule-care-lumineaza-singure)).
 
-!!! verifica "De verificat în passthrough"
-    Cum se văd luminile scenei pe liniile desenate în mediul Passthrough.
+!!! info "În passthrough"
+    Luminile sunt **globale, din aplicație**: desenul nu preia lumina reală din sală.
 
 ## Fundal: cer și ceață (*Backdrop*) { #cer-si-ceata }
 

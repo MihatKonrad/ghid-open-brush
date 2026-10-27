@@ -25,27 +25,18 @@ Bateria la spate echilibrează și greutatea căștii din față, așa că sesiu
 - cablul de încărcare USB-C;
 - pernița de spate din material tip fagure (variantă care alunecă mai puțin).
 
-## Montaj pe cască
+## Montaj
 
-Cureaua se montează o singură dată, la primirea echipamentului.
+Căștile vin **cu cureaua deja montată**. Nu e nevoie de nimic la primire.
 
-1. Scoate brațele curelei originale ale căștii, din clemele laterale.
-2. Introdu brațele BoboVR în aceleași cleme, până se aud clicurile.
-3. Conectează cablul scurt al curelei în portul USB-C al căștii.
-4. Prinde bateria B100 în locașul de la spate (se lipește magnetic).
+## Punerea și scoaterea căștii { #reglaj }
 
-!!! verifica "De completat cu fotografii"
-    Montajul diferă ușor între variante. Fotografiați pașii pe căștile proiectului și adăugați-i aici.
+!!! protocol "Ordinea"
+    **Punerea:** întâi **în față**, pe ochi și frunte, apoi se reglează **pe spate**, cu rotița.
 
-## Reglaj { #reglaj }
+    **Scoaterea:** întâi **în spate**, apoi **în față**.
 
-1. Slăbește rotița de la spate.
-2. Pune casca din față spre spate, cu cadrul pe frunte și pe ceafă.
-3. Strânge rotița până când casca stă fix. Presiunea trebuie să fie pe **frunte și ceafă**, nu pe obraji și nas.
-4. Reglează **pernițele de sus** astfel încât să atingă ușor creștetul și să preia o parte din greutate.
-
-!!! tip "Semn că e reglată bine"
-    Poți înclina capul în față fără să alunece casca, iar după 20 de minute nu rămân urme roșii pe obraji.
+    Ordinea contează mai ales pentru elevii cu **ochelari**, ca lentilele căștii și ochelarii să nu se lovească.
 
 ## Bateria B100
 
@@ -57,10 +48,7 @@ Autonomia: în jur de **3–4 ore în plus** față de bateria căștii, în fun
 
 ## Ventilatorul
 
-Ventilatorul suflă aer pe frunte, printr-un canal filtrat, ca să nu se încălzească fața și să nu se aburească lentilele. Funcționează **doar cu bateria B100 montată**. Consumă puțin și face un zgomot ușor.
-
-!!! verifica "De completat"
-    Butonul de pornire și treptele de viteză ale ventilatorului: adăugați fotografia și descrierea de pe căștile proiectului.
+Ventilatorul suflă aer pe frunte. E necesar **doar când e foarte cald**. Funcționează doar cu bateria B100 montată.
 
 ## Încărcare { #incarcare }
 

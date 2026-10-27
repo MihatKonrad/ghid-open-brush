@@ -22,9 +22,9 @@ Căștile proiectului sunt gestionate prin **Meta Horizon managed services** (HM
 
 ## Cum o folosești
 
-1. Pe laptop, deschide **[work.meta.com/facilitator_suite](https://work.meta.com/facilitator_suite)** și intră cu contul de facilitator primit de la echipa de proiect.
-2. Vezi lista căștilor organizației. Selectează căștile grupei.
-3. Apasă **Start Cast**.
+1. Pe laptop, deschide **[work.meta.com/facilitator_suite](https://work.meta.com/facilitator_suite)** și intră cu contul de facilitator primit de la echipa coVR.
+2. Vezi lista căștilor organizației. Selectează **ambele căști deodată**.
+3. Apasă **Start Cast**. Transmiterea pornită pe ambele căști în același timp le arată pe amândouă în paralel.
 4. În fiecare cască apare o **cerere de permisiune**. Elevul o acceptă, apoi ecranul lui apare pe laptop.
 5. La final, oprește transmiterea din aceeași pagină.
 
@@ -37,8 +37,8 @@ Căștile proiectului sunt gestionate prin **Meta Horizon managed services** (HM
 - Căștile trebuie să fie pornite și conectate la internet.
 - Transmiterea a mai multe căști deodată încarcă rețeaua. Dacă imaginea sacadează, transmiteți mai puține căști simultan.
 
-!!! verifica "De completat de echipa de proiect"
-    Contul de facilitator al profesorului, numele căștilor în consolă (de exemplu `C1`–`C6`) și un test în rețeaua școlii înainte de prima oră.
+!!! info "Conturile"
+    Conturile de facilitator pentru profesori le creează echipa coVR, în primele zile ale proiectului.
 
 ## Starea serviciului
 
