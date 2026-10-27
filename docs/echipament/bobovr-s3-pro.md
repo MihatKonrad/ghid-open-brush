@@ -1,6 +1,6 @@
 ---
 title: Cureaua BoboVR S3 Pro
-description: Montaj, reglaj, bateria schimbabilă B100, ventilatorul, încărcarea.
+description: Punere și scoatere, bateria B100, ventilatorul, încărcarea.
 tags:
   - echipament
   - baterie
@@ -40,8 +40,10 @@ Căștile vin **cu cureaua deja montată**. Nu e nevoie de nimic la primire.
 
 ## Bateria B100
 
+Fiecare cască are **o singură baterie B100**, pe curea. Nu există baterii de rezervă, de aceea bateriile se încarcă la finalul sesiunilor.
+
+
 - **Nivelul bateriei:** apasă butonul de pe lateralul bateriei. Procentul exact apare și pe afișajul de pe lateralul curelei.
-- **Schimbare în timpul lucrului (hot-swap):** bateria se poate scoate și înlocui cu una încărcată **fără să oprești casca**. Casca își continuă funcționarea pe bateria proprie cât timp schimbi.
 - **Gestionare automată:** sistemul încarcă întâi casca până la 100% și păstrează restul pentru mai târziu. Dacă e conectată la o cască deja încărcată, se oprește singură ca să nu se consume.
 
 Autonomia: în jur de **3–4 ore în plus** față de bateria căștii, în funcție de folosire.

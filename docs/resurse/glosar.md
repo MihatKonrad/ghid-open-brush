@@ -39,7 +39,6 @@ Interfața Open Brush e în engleză. Tabelul traduce termenii pe care îi vezi 
 | Group / Ungroup | grupează / degrupează | [Selecție](../open-brush/unelte/selectie.md) |
 | Guides | ghidaje | [Spațiul de lucru](../open-brush/spatiu.md#ghidaje) |
 | HMS (Horizon managed services) | gestionarea centrală a căștilor | [Meta Horizon managed services](../echipament/horizon-managed-services.md) |
-| Hot-swap | schimbarea bateriei fără oprire | [BoboVR](../echipament/bobovr-s3-pro.md#bateria-b100) |
 | Invert Selection | inversează selecția | [Selecție](../open-brush/unelte/selectie.md) |
 | Jitter | variație aleatorie | [Culoare](../open-brush/culoare.md#variatie-aleatorie-jitter) |
 | Join | unește | [Tăiere și unire](../open-brush/unelte/taiere-unire.md) |

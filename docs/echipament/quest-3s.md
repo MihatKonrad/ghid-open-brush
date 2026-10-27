@@ -53,7 +53,7 @@ Nivelul bateriei căștii se vede în meniul Meta (bara de jos).
 
 ## Controlere
 
-Controlerele Quest 3S (*Touch Plus*) folosesc câte **o baterie AA**. Când bateria e pe terminate, apare un avertisment în cască. Țineți baterii de rezervă sau acumulatori încărcați în trusa setului. Detalii: [Controlerele în Open Brush](controlere.md).
+Controlerele Quest 3S (*Touch Plus*) folosesc câte **o baterie AA**. Când bateria e pe terminate, apare un avertisment în cască. Detalii: [Controlerele în Open Brush](controlere.md).
 
 ## Actualizări
 

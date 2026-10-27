@@ -9,8 +9,7 @@ Un **set de lucru** înseamnă:
 
 - [ ] o cască **Meta Quest 3S**;
 - [ ] o curea cu baterie **BoboVR S3 Pro** montată pe cască, în locul curelei originale;
-- [ ] o **baterie de rezervă** BoboVR B100 (dacă există), încărcată;
-- [ ] două **controlere** (stânga, dreapta), cu baterii AA încărcate sau de rezervă;
+- [ ] două **controlere** (stânga, dreapta), cu bateriile AA;
 - [ ] **cablul USB-C** și încărcătorul;
 - [ ] o **lavetă din microfibră** pentru lentile;
 - [ ] **șervețele umede fără alcool** pentru partea care atinge fața;
@@ -19,7 +18,7 @@ Un **set de lucru** înseamnă:
 ## Pagini
 
 - [Casca Meta Quest 3S](quest-3s.md): pornire, reglaj, zona de siguranță, încărcare, depozitare.
-- [Cureaua BoboVR S3 Pro](bobovr-s3-pro.md): montaj, reglaj, bateria schimbabilă, ventilatorul.
+- [Cureaua BoboVR S3 Pro](bobovr-s3-pro.md): punere și scoatere, bateria B100, ventilatorul.
 - [Controlerele în Open Brush](controlere.md): ce face fiecare buton.
 - [Meta Horizon managed services](horizon-managed-services.md): căștile gestionate central și Facilitator Suite, din care profesorul vede ce fac elevii.
 
