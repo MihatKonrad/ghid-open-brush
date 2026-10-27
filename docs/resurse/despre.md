@@ -18,14 +18,14 @@ Conținutul ghidului aparține autorilor săi. Finanțatorul nu este responsabil
 <figcaption>Realizat de</figcaption>
 </figure>
 <figure markdown>
-<span class="partener">Liceul de Arte Plastice<br>Timișoara</span>
+![Liceul de Arte Plastice Timișoara](../assets/img/liceul-arte-plastice.svg){ .lap }
 <figcaption>În parteneriat cu</figcaption>
 </figure>
 </div>
 
 <div class="sps-finantare-despre" markdown>
-![Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-negru.png#only-light){ .cdp }
-![Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-alb.png#only-dark){ .cdp }
+![Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-negru.svg#only-light){ .cdp }
+![Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație](../assets/img/cdp-asemt-alb.svg#only-dark){ .cdp }
 
 Finanțat de Municipiul Timișoara prin Centrul de Proiecte și Administrația pentru Sănătate și Educație.
 </div>

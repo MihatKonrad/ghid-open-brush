@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 160 160">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffa737;
+      }
+
+      .cls-2 {
+        fill: #803c3c;
+      }
+
+      .cls-3 {
+        fill: #bcab79;
+      }
+
+      .cls-4 {
+        fill: #51a3a3;
+      }
+
+      .cls-5 {
+        stroke: #fff;
+        stroke-width: 5.13px;
+      }
+
+      .cls-5, .cls-6 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-6 {
+        stroke: #bcab79;
+        stroke-width: 16.29px;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-6" cx="114.79" cy="46.21" rx="33.16" ry="32.96"></ellipse>
+  <rect class="cls-1" x="38.86" y="70.25" width="151.85" height="19.49" transform="translate(194.78 -34.8) rotate(90)"></rect>
+  <polyline class="cls-4" points="89.56 104.73 32.29 104.73 32.29 88.5 89.56 88.5"></polyline>
+  <rect class="cls-2" x="4" y="136.47" width="83.2" height="19.49"></rect>
+  <rect class="cls-3" x="4" y="70.21" width="152.01" height="19.49" transform="translate(159.95 -.05) rotate(90)"></rect>
+  <polygon class="cls-2" points="4.06 155.92 4.06 3.93 23.55 3.93 23.55 155.84 4.06 155.92"></polygon>
+  <rect class="cls-1" x="72.94" y="3.93" width="83.1" height="19.49"></rect>
+  <polygon class="cls-4" points="27.85 155.97 89.75 3.93 67.72 3.93 3.96 156.07 27.85 155.97"></polygon>
+</svg>
