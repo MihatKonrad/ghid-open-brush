@@ -39,7 +39,7 @@ Când Open Brush se actualizează și o funcție se schimbă, actualizăm pagina
 
 ## Surse
 
-Acest ghid a fost creat cu ajutorul AI, sub supravegherea lui Konrad Mihat. Textele sunt generate pe baza instrucțiunilor de folosire și verificate, dar pot conține exprimări greșite.
+Acest ghid a fost creat cu ajutorul inteligenței artificiale, sub supravegherea lui Konrad Mihat. Textele sunt generate pe baza instrucțiunilor de folosire și verificate, dar pot conține exprimări greșite.
 
 Informațiile despre Open Brush se bazează pe [documentația oficială](https://docs.openbrush.app) a Icosa Foundation, adaptată și rescrisă în română pentru lucrul la clasă. Informațiile despre echipament vin de la producători.
 
