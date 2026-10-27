@@ -31,9 +31,6 @@ Căștile proiectului sunt gestionate prin **Meta Horizon managed services** (HM
 !!! protocol "Transmiterea se face cu acordul elevului"
     Elevul vede cererea în cască și o acceptă. Spuneți-le la începutul orei de ce o folosiți: ca profesorul să poată ajuta și ca grupa să vadă ce se construiește. Transmiterea **nu înregistrează** nimic. Înregistrările și capturile de ecran ale ecranelor elevilor intră sub regulile acordurilor de imagine.
 
-!!! tip "Combinat cu multiplayer"
-    În [multiplayer](../open-brush/multiplayer.md), fiecare elev are casca lui. Cu Facilitator Suite vezi toate perspectivele deodată și poți interveni verbal când cineva se blochează.
-
 ## Bine de știut
 
 - Funcționează **doar** cu căștile înscrise în HMS-ul organizației. O cască personală, adusă de acasă, nu apare.

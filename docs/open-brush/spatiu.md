@@ -24,9 +24,7 @@ Ce se schimbă în passthrough:
 - **Zona de siguranță a căștii nu se mai afișează** cât timp mediul Passthrough e activ. Elevii văd sala, dar zona fizică trebuie să rămână liberă (vezi [În timpul sesiunii](../protocoale/in-timpul.md#siguranta-fizica)).
 
 !!! info "Desenul rămâne legat de locul real"
-    Blocarea împiedică doar mutarea din Open Brush. Cât de bine stă desenul pe locul lui depinde de urmărirea căștii și de configurarea sălii. Ca desenul să se deschidă de fiecare dată cam în același loc, folosiți un [punct fix de pornire](../procese/repere.md#punct-fix-de-pornire). Dacă s-a mutat totuși de la o sesiune la alta, îl puneți înapoi cu ajutorul [stratului de repere](../procese/repere.md).
-
-În [multiplayer](multiplayer.md#in-aceeasi-sala-passthrough-si-colocare), fiecare elev vede sala prin casca lui, iar desenul comun e aliniat prin colocare.
+    Blocarea împiedică doar mutarea din Open Brush. Cât de bine stă desenul pe locul lui depinde de urmărirea căștii și de configurarea sălii. Pentru lucrul pe spații din 2027, vezi [Stratul de repere](../procese/repere.md).
 
 ## Mediu (*Environment*) { #mediu }
 

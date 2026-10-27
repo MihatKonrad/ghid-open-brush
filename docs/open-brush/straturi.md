@@ -33,7 +33,7 @@ Toate operațiile se pot anula cu ++x++.
 ## Când le folosești
 
 - **schițe și construcție**: un strat pentru „schelet”, pe care îl ascunzi la final;
-- **lucru în grup**: fiecare elev pe stratul lui, cu numele lui (vezi [Lucrez în grup](../procese/lucru-in-grup.md));
+- **lucru în grup** (din 2027): fiecare elev pe stratul lui (vezi [Lucrez în grup](../procese/lucru-in-grup.md));
 - **variante**: două versiuni ale aceluiași perete, pe straturi diferite, pe care le compari ascunzând unul;
 - **etape**: un strat pe fiecare oră de lucru, ca să se vadă evoluția spațiului.
 

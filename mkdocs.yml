@@ -105,13 +105,9 @@ nav:
       - Spațiul de lucru: open-brush/spatiu.md
       - Straturi: open-brush/straturi.md
       - Imagini și modele: open-brush/import.md
-      - Multiplayer: open-brush/multiplayer.md
       - Salvare și export: open-brush/salvare.md
   - Rețete:
       - procese/index.md
-      - Construiesc un spațiu personalizat: procese/spatiu-personalizat.md
-      - Stratul de repere: procese/repere.md
-      - Lucrez în grup pe aceeași lucrare: procese/lucru-in-grup.md
       - Fac imagini pentru portofoliu: procese/capturi.md
       - Copiez lucrările pe calculator: procese/transfer.md
       - Arăt pe ecran ce vede elevul: procese/proiectare.md
@@ -133,6 +129,12 @@ nav:
       - practica/index.md
       - Procesul pe etape: practica/plan.md
       - Exerciții: practica/exercitii.md
+  - Din 2027:
+      - 2027/index.md
+      - Construiesc un spațiu personalizat: procese/spatiu-personalizat.md
+      - Stratul de repere: procese/repere.md
+      - Lucrez în grup: procese/lucru-in-grup.md
+      - Multiplayer: open-brush/multiplayer.md
   - Resurse:
       - Glosar EN–RO: resurse/glosar.md
       - Video și linkuri: resurse/linkuri.md

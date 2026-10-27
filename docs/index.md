@@ -72,6 +72,7 @@ Un ghid practic pentru **desenul 3D în realitate virtuală** cu [Open Brush](ht
 | [Echipament](echipament/index.md) | Casca, cureaua cu baterie, încărcarea, controlerele. |
 | [Protocoale](protocoale/index.md) | Regulile de lucru în sală: pregătire, siguranță, igienă, arhivare. |
 | [Practică](practica/index.md) | Procesul educațional pe etape și exercițiile pentru fiecare etapă. |
+| [Din 2027](2027/index.md) | Lucrul în grup pe spații: multiplayer, stratul de repere. Nu e nevoie de el în 2026. |
 | [Resurse](resurse/glosar.md) | Glosar engleză–română al butoanelor, clipuri, linkuri oficiale. |
 
 !!! note "Versiunea acoperită"
