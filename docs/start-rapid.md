@@ -23,7 +23,7 @@ Pentru cine pune casca pentru prima dată. Durează în jur de 15 minute. Restul
     - Ca să alegi ceva, îndrepți mâna-pensulă spre paletă și apeși trăgaciul pe buton.
 9. **Greșeli și mișcare.**
     - ++x++ pe mâna-paletă = **anulează** ultima linie (*Undo*). ++y++ = **refă** (*Redo*). Ține apăsat ca să anulezi mai multe deodată.
-    - Desenul stă în sală: ca să-l vezi din altă parte, **mergi în jurul lui**. În passthrough, mutarea lumii cu butoanele laterale e blocată.
+    - Desenul stă în sală: ca să-l vezi din altă parte, **mergi în jurul lui**. În passthrough, mutarea lumii cu butoanele laterale e blocată implicit.
 10. **Salvează și redenumește.** Pe mâna-paletă e panoul de administrare (*Admin Panel*). Apasă **Save Sketch** (salvează schița). La o schiță nouă, intră apoi în *Sketchbook*, apasă pe meniul cu trei puncte al schiței și pe iconița **„abc”** ca s-o redenumești. Detalii: [Redenumește o schiță nouă](open-brush/salvare.md#redenumeste).
 
 !!! protocol "Înainte să scoți casca"

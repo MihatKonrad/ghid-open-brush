@@ -68,14 +68,12 @@ Ventilatorul suflă aer pe frunte, printr-un canal filtrat, ca să nu se încăl
 2. Conecteaz-o la încărcător cu **cablul USB-C** din pachet.
 3. Verifică nivelul cu butonul de pe baterie.
 
-!!! protocol "Ordinea de încărcare, la sfârșitul zilei"
-    1. Toate bateriile B100 la încărcat.
-    2. Căștile la încărcat dacă au sub 50%.
-    3. A doua zi dimineață: verifică procentele înainte de primul atelier.
+!!! protocol "La finalul sesiunilor"
+    Toate bateriile (B100 și căștile) se pun la încărcat la finalul tuturor sesiunilor, ca la următoarea sesiune să fie sigur încărcate.
 
 ## Curățare
 
-- Pernițele din piele ecologică se șterg cu **șervețele umede fără alcool**, după fiecare utilizator.
+- Pernițele se șterg cu **șervețel umed** între folosiri și la final (vezi [Igienă și siguranță](../protocoale/igiena-siguranta.md)). Lentilele căștii nu se șterg cu șervețelul umed.
 - Pernița din fagure se poate scoate și aerisi. Nu se udă.
 - Fanta ventilatorului se ține curată: fără creme, spray-uri sau lichide în apropiere.
 

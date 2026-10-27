@@ -35,6 +35,7 @@ Schița unui grup stă **mereu pe aceeași cască**. Etichetați căștile (de e
     1. Elevul care termină **salvează** (*Save Sketch*).
     2. Casca se igienizează (vezi [Igienă și siguranță](../protocoale/igiena-siguranta.md)).
     3. Următorul elev își reglează casca, apoi își face activ stratul.
+    4. Profesorul întreabă: „Ai salvat?”
 
 ## Ce văd ceilalți
 

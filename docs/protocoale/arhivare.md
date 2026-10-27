@@ -39,8 +39,7 @@ Redenumirea se face în caietul de schițe: meniul cu trei puncte al schiței, a
 Spatii-pentru-sine/
 ├── G1/
 │   ├── schite/          ← fișierele .tilt
-│   ├── capturi/         ← fotografii, panorame 360°, GIF-uri
-│   └── fise-sesiuni/
+│   └── capturi/         ← fotografii, imagini 360°, GIF-uri
 ├── G2/
 │   └── …
 └── referinte/           ← imaginile copiate în căști

@@ -21,7 +21,8 @@ Pașii tehnici pentru un spațiu desenat **în passthrough**, direct în locul r
 ## 2. Desenează în locul real
 
 - Desenul stă în sală la scara reală. Elevii merg în jurul lui și prin el.
-- În passthrough, mutarea lumii e blocată, ca desenul să nu se decaleze față de sală.
+- În passthrough, mutarea lumii cu butoanele laterale e blocată implicit, ca desenul să nu se decaleze față de sală. Tot desenul se poate muta cu **Select All** și mutarea selecției.
+- Ca schița să se deschidă de fiecare dată cam în același loc, porniți aplicația dintr-un [punct fix de pornire](repere.md#punct-fix-de-pornire).
 - Dacă desenul s-a mutat între sesiuni, îl puneți înapoi după [stratul de repere](repere.md).
 - Pentru suprafețe plane și linii drepte: [ghidaje](../open-brush/spatiu.md#ghidaje) și [linie dreaptă](../open-brush/unelte/linie-dreapta.md).
 

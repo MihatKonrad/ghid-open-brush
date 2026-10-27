@@ -9,11 +9,10 @@ Protocoalele sunt regulile pe care le urmăm la fiecare sesiune, ca lucrul cu c�
 
 | Când | Ce | Pagina |
 | --- | --- | --- |
-| cu o zi înainte / dimineața | încărcare, sală, materiale | [Înainte de sesiune](inainte.md) |
-| la începutul orei | prezentarea regulilor către elevi | [Înainte de sesiune](inainte.md#la-inceputul-orei) |
-| în timpul orei | roluri, pauze, semnale de disconfort, salvare | [În timpul sesiunii](in-timpul.md) |
-| la sfârșitul orei | salvare, curățare, încărcare, fișa sesiunii | [După sesiune](dupa.md) |
-| mereu | igienă, sănătate, siguranță | [Igienă și siguranță](igiena-siguranta.md) |
+| înainte de sesiune | sală, căști, materiale de igienizare | [Înainte de sesiune](inainte.md) |
+| în timpul sesiunii | maximum 30 de minute în cască, disconfort, salvare | [În timpul sesiunii](in-timpul.md) |
+| după sesiune | salvare, igienizare, încărcarea tuturor bateriilor | [După sesiune](dupa.md) |
+| mereu | igienizare între folosiri, sănătate | [Igienă și siguranță](igiena-siguranta.md) |
 | săptămânal | copierea lucrărilor pe calculator și backup | [Salvare și arhivare](arhivare.md) |
 | când apare o problemă | ce faci în primele două minute | [Când ceva nu merge](depanare.md) |
 

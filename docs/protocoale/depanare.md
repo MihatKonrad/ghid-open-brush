@@ -44,6 +44,6 @@ Caută problema în tabel (sau cu bara de căutare). Încearcă soluțiile în o
 1. Salvează (dacă se mai poate).
 2. Închide Open Brush din meniul Meta.
 3. Repornește casca (ține butonul de pornire → *Restart*).
-4. Notează problema în fișa sesiunii și anunță echipa de proiect.
+4. Anunță echipa de proiect.
 
 Pentru probleme mai rare, vezi [secțiunea de depanare a documentației oficiale](https://docs.openbrush.app/user-guide/troubleshooting-issues-with-open-brush).

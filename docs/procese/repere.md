@@ -32,15 +32,21 @@ Cu repere apropiate sau pe același plan, o mică eroare de aliniere se vede mul
 4. Fă activ alt strat înainte să desenezi lucrarea propriu-zisă, ca reperele să rămână separate.
 5. Salvează.
 
+## Punct fix de pornire { #punct-fix-de-pornire }
+
+Ideal, în mijlocul spațiului există un **punct fix, cu o orientare**, din care se deschide aplicația: elevul stă în acel punct, cu fața în direcția stabilită, când pornește Open Brush și deschide schița. Așa desenul se deschide de fiecare dată cam în același loc și are nevoie doar de reglaje mici.
+
+Punctul se pregătește înainte de lucrul pe spații din 2027.
+
 ## Pune schița înapoi pe locul ei
 
 Dacă la redeschidere desenul nu mai stă pe sală:
 
 1. Fă vizibil stratul `repere`.
 2. Încearcă întâi *Environment* → **Reset Scene Transform**.
-3. Dacă nu ajunge: *Environment* → dezactivează **Lock Scene Transform**, ca să poți muta lumea.
-4. Apucă lumea cu butoanele laterale și mut-o până când reperele desenate se suprapun peste cele reale. Verifică pe toate reperele, nu doar pe unul.
-5. Reactivează **Lock Scene Transform** și salvează.
+3. Dacă nu ajunge, mută tot desenul: **Select All** (vezi [Selecție](../open-brush/unelte/selectie.md)), apoi apucă selecția și mut-o până când reperele desenate se suprapun peste cele reale. Altă variantă: *Environment* → dezactivează **Lock Scene Transform** și mută lumea cu butoanele laterale, apoi reactivează blocarea.
+4. Verifică pe toate reperele, nu doar pe unul.
+5. Salvează.
 
 ## Rolul reperelor în lucrare
 

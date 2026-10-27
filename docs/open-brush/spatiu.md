@@ -17,14 +17,14 @@ tags:
 
 Ce se schimbă în passthrough:
 
-- **Mutarea lumii e blocată.** Open Brush nu mai lasă desenul să fie mutat, rotit sau scalat cu butoanele laterale, ca să nu se decaleze față de sala reală dintr-o apucare accidentală.
+- **Mutarea lumii cu butoanele laterale e blocată implicit**, ca desenul să nu se decaleze față de sala reală dintr-o apucare accidentală. Desenul se poate muta totuși: selectezi tot (**Select All**, vezi [Selecție](unelte/selectie.md)) și muți selecția, sau deblochezi mutarea lumii (mai jos).
 - **Comenzile scenei** sunt în fereastra mediului Passthrough (deschizi *Environment* cât timp e selectat Passthrough):
     - **Lock Scene Transform** blochează sau permite mutarea lumii;
     - **Reset Scene Transform** readuce desenul în poziția, orientarea și mărimea inițiale.
 - **Zona de siguranță a căștii nu se mai afișează** cât timp mediul Passthrough e activ. Elevii văd sala, dar zona fizică trebuie să rămână liberă (vezi [În timpul sesiunii](../protocoale/in-timpul.md#siguranta-fizica)).
 
 !!! info "Desenul rămâne legat de locul real"
-    Blocarea împiedică doar mutarea din Open Brush. Cât de bine stă desenul pe locul lui depinde de urmărirea căștii și de configurarea sălii. Dacă desenul s-a mutat de la o sesiune la alta, îl puneți înapoi cu ajutorul [stratului de repere](../procese/repere.md).
+    Blocarea împiedică doar mutarea din Open Brush. Cât de bine stă desenul pe locul lui depinde de urmărirea căștii și de configurarea sălii. Ca desenul să se deschidă de fiecare dată cam în același loc, folosiți un [punct fix de pornire](../procese/repere.md#punct-fix-de-pornire). Dacă s-a mutat totuși de la o sesiune la alta, îl puneți înapoi cu ajutorul [stratului de repere](../procese/repere.md).
 
 În [multiplayer](multiplayer.md#in-aceeasi-sala-passthrough-si-colocare), fiecare elev vede sala prin casca lui, iar desenul comun e aliniat prin colocare.
 

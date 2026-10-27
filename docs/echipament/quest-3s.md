@@ -65,9 +65,9 @@ Controlerele Quest 3S (*Touch Plus*) folosesc câte **o baterie AA**. Când bate
 
 ## Actualizări
 
-- Casca și aplicațiile se actualizează automat când sunt **conectate la Wi-Fi și puse la încărcat**. Lăsați-le conectate peste noapte din când în când.
-- Înainte de un atelier important, deschideți Open Brush o dată, ca să nu apară o actualizare chiar la începutul orei.
-- Versiunea Open Brush descrisă de ghid: **v2.32**.
+Actualizările căștilor și ale aplicației le face **echipa coVR, la distanță**. Nu sunt în sarcina profesorului.
+
+Versiunea Open Brush descrisă de ghid: **v2.32**.
 
 ## Depozitare
 

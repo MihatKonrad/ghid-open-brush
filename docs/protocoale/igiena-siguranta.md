@@ -1,6 +1,6 @@
 ---
 title: Igienă și siguranță
-description: Curățarea căștilor între utilizatori, sănătate, cine nu ar trebui să poarte casca.
+description: Igienizarea căștilor între folosiri și la final, sănătate.
 tags:
   - protocol
   - igienă
@@ -9,28 +9,12 @@ tags:
 
 # Igienă și siguranță
 
-## Între doi utilizatori
+## Igienizarea
 
-!!! protocol "La fiecare schimb"
-    1. Elevul care pune casca își **dezinfectează mâinile**.
-    2. **Pernițele** care ating fața și fruntea se șterg cu un **șervețel umed fără alcool**.
-    3. Se așteaptă câteva secunde să se usuce.
-    4. **Lentilele** se șterg, dacă e nevoie, **doar cu laveta din microfibră uscată**, prin mișcări circulare de la centru spre margine.
+!!! protocol "Între folosiri și la final"
+    Părțile căștii care ating fața și capul se șterg cu un **șervețel umed**: între doi elevi și la finalul sesiunii.
 
-!!! warning "Ce nu folosim pe lentile"
-    Apă, alcool, spray-uri de curățat, șervețele umede, hârtie sau tricoul. Lentilele se zgârie ușor și au un strat de protecție care se strică.
-
-## La sfârșitul zilei
-
-- toate pernițele șterse;
-- controlerele șterse pe mânere;
-- casca lăsată să se aerisească înainte de a fi închisă în trusă.
-
-## Sfaturi practice
-
-- Elevii cu machiaj sau cremă pe față: o lavetă de unică folosință sau o mască de protecție pentru ochi, dacă aveți.
-- Părul lung: legat, ca să nu se prindă în rotița curelei.
-- Cine e răcit sau are o infecție la ochi nu poartă casca în ziua respectivă.
+    **Lentilele nu se șterg cu șervețelul umed.** Ele se curăță doar cu laveta din microfibră uscată.
 
 ## Sănătate
 
@@ -41,7 +25,7 @@ Producătorul recomandă **prudență sau consultarea unui medic înainte de fol
 - poartă dispozitive medicale implantate (de exemplu stimulator cardiac);
 - sunt însărcinate.
 
-Pentru elevi, informați părinții și cereți-le să vă anunțe dacă e cazul. Nimeni nu e obligat să poarte casca: elevul poate participa în alt rol (paznic, planificare, schițe pe hârtie).
+Pentru elevi, informați părinții și cereți-le să vă anunțe dacă e cazul. Nimeni nu e obligat să poarte casca.
 
 Avertismentele complete de sănătate și siguranță ale producătorului le găsiți în pachetul căștii și pe [meta.com/legal/quest/health-and-safety-warnings](https://www.meta.com/legal/quest/health-and-safety-warnings/).
 

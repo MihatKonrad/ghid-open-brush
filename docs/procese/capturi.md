@@ -40,4 +40,4 @@ Open Brush nu face video direct pe Quest. Cea mai simplă soluție e **înregist
 | capturi de ecran de sistem | `Oculus/Screenshots` |
 
 !!! protocol "Imaginile cu persoane"
-    Capturile din Open Brush arată doar desenul, deci nu au probleme de imagine. Fotografiile cu **elevii purtând casca** se fac și se folosesc numai conform acordurilor semnate.
+    Fotografiile cu **elevii purtând casca** se fac și se folosesc numai conform acordurilor semnate.
