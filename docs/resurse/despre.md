@@ -39,6 +39,8 @@ Când Open Brush se actualizează și o funcție se schimbă, actualizăm pagina
 
 ## Surse
 
+Acest ghid a fost creat cu ajutorul AI, sub supravegherea lui Konrad Mihat. Textele sunt generate pe baza instrucțiunilor de folosire și verificate, dar pot conține exprimări greșite.
+
 Informațiile despre Open Brush se bazează pe [documentația oficială](https://docs.openbrush.app) a Icosa Foundation, adaptată și rescrisă în română pentru lucrul la clasă. Informațiile despre echipament vin de la producători.
 
 Open Brush este un proiect open-source al [Icosa Foundation](https://github.com/icosa-foundation). Acest ghid este independent și nu este afiliat Icosa Foundation, Meta sau BoboVR. Numele produselor aparțin deținătorilor lor.
