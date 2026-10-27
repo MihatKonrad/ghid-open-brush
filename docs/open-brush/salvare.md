@@ -15,8 +15,17 @@ tags:
 - Prima salvare creează un fișier nou. Salvările următoare îl actualizează.
 - Fișierele au extensia `.tilt` și stau în cască, în `Open Brush/Sketches`.
 
-!!! protocol "Salvează des"
-    Salvează la fiecare **10–15 minute** și **întotdeauna** înainte de: o operație mare (oglindă multiplă, selecție totală, import), schimbarea elevului la cască, scoaterea căștii, sfârșitul orei.
+!!! protocol "Când salvezi"
+    La finalul lucrului sau **înainte să scoți casca**.
+
+## Redenumește o schiță nouă { #redenumeste }
+
+O schiță salvată prima dată primește un nume automat. Ca s-o redenumești:
+
+1. Deschide caietul de schițe (*Sketchbook*), butonul mare din mijlocul *Admin Panel*.
+2. Găsește schița în lista de schițe locale.
+3. Apasă pe **meniul cu trei puncte** (⋯) al schiței.
+4. Apasă pe **iconița „abc”** și scrie numele nou cu tastatura virtuală.
 
 ## Caietul de schițe (*Sketchbook*)
 
@@ -25,7 +34,7 @@ Butonul mare din mijlocul *Admin Panel*. Are file pentru:
 - **schițele locale**, salvate în cască;
 - schițe din **Icosa Gallery** (galeria online a comunității), dacă există conexiune la internet.
 
-Acolo deschizi o schiță existentă și **o redenumești** cu tastatura virtuală.
+Acolo deschizi o schiță existentă sau o [redenumești](#redenumeste).
 
 !!! tip "Nume de fișier clare"
     Folosiți o regulă comună de nume, de exemplu `G1_spatiu_2026-11-03` (grupa, subiectul, data). Detalii: [Salvare și arhivare](../protocoale/arhivare.md).

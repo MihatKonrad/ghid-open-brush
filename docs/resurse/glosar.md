@@ -46,6 +46,7 @@ Interfața Open Brush e în engleză. Tabelul traduce termenii pe care îi vezi 
 | Labs | laborator (funcții experimentale) | [Interfața](../open-brush/interfata.md) |
 | Layers | straturi | [Straturi](../open-brush/straturi.md) |
 | Lazy Input | netezirea liniei | [Desenul de bază](../open-brush/desen.md#linii-mai-netede-lazy-input) |
+| Lock / Reset Scene Transform | blochează / readuce poziția desenului (passthrough) | [Passthrough](../open-brush/spatiu.md#passthrough) |
 | Lights | lumini | [Spațiul de lucru](../open-brush/spatiu.md#lumini) |
 | Local Images / Videos / Models | imagini / video / modele locale | [Imagini și modele](../open-brush/import.md) |
 | Local Media Library | biblioteca media locală | [Imagini și modele](../open-brush/import.md) |
@@ -54,7 +55,7 @@ Interfața Open Brush e în engleză. Tabelul traduce termenii pe care îi vezi 
 | Multi Mirror | oglinda multiplă | [Oglindă](../open-brush/unelte/oglinda.md#oglinda-multipla-multi-mirror) |
 | Multiplayer | desen în comun, în timp real | [Multiplayer](../open-brush/multiplayer.md) |
 | New Sketch | schiță nouă | [Interfața](../open-brush/interfata.md) |
-| Passthrough | vederea sălii reale | [Quest 3S](../echipament/quest-3s.md) |
+| Passthrough | vederea sălii reale; mediul în care desenăm în sală | [Passthrough](../open-brush/spatiu.md#passthrough) |
 | Pin | fixează | [Imagini și modele](../open-brush/import.md) |
 | Pointer Angle | unghiul pointerului | [Interfața](../open-brush/interfata.md#setari-utile-settings) |
 | Quick Tools | meniul rapid | [Interfața](../open-brush/interfata.md#meniul-rapid-quick-tools) |

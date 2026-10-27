@@ -10,9 +10,10 @@ tags:
 
 ## Passthrough: desenul în sala reală { #passthrough }
 
-În proiect lucrăm **tot timpul în passthrough**: elevii văd sala reală prin camerele căștii și desenează direct în ea. Desenul stă în spațiul real al școlii, nu într-o lume virtuală.
+În proiect lucrăm **în general în passthrough**: elevii văd sala reală prin camerele căștii și desenează direct în ea. Desenul stă în spațiul real al școlii, nu într-o lume virtuală. Rămânem în passthrough până la momentul în care lucrarea e transpusă ca scenografie într-o altă sală.
 
-Cum îl pornești: alegi mediul **Passthrough** din panoul *Environment* (în Beginner, pe fața *Tools*; în Advanced, în *Extras*).
+!!! protocol "Primul pas la orice schiță nouă"
+    Setează scena **Passthrough**: alegi mediul *Passthrough* din panoul *Environment* (în Beginner, pe fața *Tools*; în Advanced, în *Extras*).
 
 Ce se schimbă în passthrough:
 
@@ -23,7 +24,7 @@ Ce se schimbă în passthrough:
 - **Zona de siguranță a căștii nu se mai afișează** cât timp mediul Passthrough e activ. Elevii văd sala, dar zona fizică trebuie să rămână liberă (vezi [În timpul sesiunii](../protocoale/in-timpul.md#siguranta-fizica)).
 
 !!! info "Desenul rămâne legat de locul real"
-    Blocarea împiedică doar mutarea din Open Brush. Cât de bine stă desenul pe locul lui depinde de urmărirea căștii și de configurarea sălii. Dacă desenul pare decalat, folosiți **Reset Scene Transform**.
+    Blocarea împiedică doar mutarea din Open Brush. Cât de bine stă desenul pe locul lui depinde de urmărirea căștii și de configurarea sălii. Dacă desenul s-a mutat de la o sesiune la alta, îl puneți înapoi cu ajutorul [stratului de repere](../procese/repere.md).
 
 În [multiplayer](multiplayer.md#in-aceeasi-sala-passthrough-si-colocare), fiecare elev vede sala prin casca lui, iar desenul comun e aliniat prin colocare.
 

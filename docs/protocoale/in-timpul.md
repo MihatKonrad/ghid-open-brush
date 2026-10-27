@@ -25,7 +25,7 @@ Rolurile elevilor se schimbă la fiecare rotație.
 
 Meta recomandă, pentru început, **o pauză cel puțin la fiecare 30 de minute** și o pauză oricând apare un disconfort. La început casca se folosește câte câteva minute, iar durata crește treptat ([Meta, VR Comfort and Safety](https://about.fb.com/wp-content/uploads/2022/10/VR-Comfort-and-Safety.pdf)).
 
-Durata exactă a turelor în atelier o stabilesc facilitatorii, în funcție de grupă.
+În ateliere, fiecare elev stă în cască **maximum 30 de minute** odată.
 
 ## Semnale de disconfort
 
@@ -54,6 +54,6 @@ Ca să preveniți disconfortul: evitați **zborul** și mișcările artificiale 
 
 ## Salvarea
 
-- Desenatorul salvează la fiecare **10–15 minute**.
-- **Întotdeauna** înainte de schimbul la cască.
+- Desenatorul salvează la finalul lucrului sau **înainte să scoată casca**, deci și înainte de schimbul la cască.
+- O schiță nouă se redenumește după prima salvare (vezi [Redenumește o schiță nouă](../open-brush/salvare.md#redenumeste)).
 - Profesorul întreabă la fiecare schimb: „Ai salvat?”

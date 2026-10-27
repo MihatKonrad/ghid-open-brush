@@ -32,6 +32,7 @@ Caută problema în tabel (sau cu bara de căutare). Încearcă soluțiile în o
 | aplicația s-a închis singură | redeschide-o; deschide schița din caietul de schițe; dacă lipsesc părți, caută în `Sketches/Autosave` |
 | nu găsesc schița salvată | caietul de schițe → schițele locale; verifică pe ce cască s-a lucrat; caută în `Sketches/Autosave` |
 | o imagine importată nu apare | verifică dosarul (`Media Library/Images`) și formatul (JPEG/PNG); redimensionează sub 2048 px |
+| desenul nu mai stă pe locul lui din sală | aliniați-l după [stratul de repere](../procese/repere.md#pune-schita-inapoi-pe-locul-ei) |
 | liniile desenate nu apar unde mă aștept | verifică dacă e activ stratul potrivit și dacă stratul nu e ascuns |
 | am șters sau am mutat ceva din greșeală | ++x++ (anulează), ținut apăsat pentru mai mulți pași |
 | tot ce desenez apare dublat | oglinda e pornită: apasă din nou pe **Mirror** |

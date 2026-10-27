@@ -23,5 +23,5 @@ Protocoalele sunt regulile pe care le urmăm la fiecare sesiune, ca lucrul cu c�
     1. **Zona liberă.** Nimeni nu intră în zona celui care poartă casca.
     2. **Curelușa pe mână.** Controlerele se țin mereu cu curelușa pe încheietură.
     3. **Disconfort = stop.** La amețeală, greață sau dureri de cap, casca se scoate imediat, fără discuție.
-    4. **Salvează.** La fiecare 10–15 minute și înainte să dai casca altcuiva.
+    4. **Salvează.** La finalul lucrului și înainte să scoți casca.
     5. **Fără soare.** Căștile nu stau niciodată în lumina directă a soarelui.

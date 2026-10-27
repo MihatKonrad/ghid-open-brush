@@ -7,7 +7,7 @@ description: Cine a realizat ghidul, în ce proiect, licență, cum se actualize
 
 Ghidul este realizat și oferit de **coVR**, în parteneriat cu **Liceul de Arte Plastice Timișoara**, în proiectul *Spații pentru sine* din programul *Școli creative 2026-2027*.
 
-În proiect, elevii liceului construiesc în realitate virtuală spații personalizate, desenate cu Open Brush. Ghidul îi ajută pe profesori să lucreze cu elevii între atelierele cu facilitatorii. E publicat ca **resursă deschisă**, pentru oricine lucrează cu Open Brush în română.
+În proiect, elevii liceului construiesc în realitate virtuală spații personalizate, desenate cu Open Brush. Ghidul este resursa online de utilizare a căștilor și a aplicației Open Brush prevăzută în proiect pentru profesorul-custode, care facilitează accesul elevilor la căști între atelierele cu facilitatorii. E publicat ca **resursă deschisă**, pentru oricine lucrează cu Open Brush în română.
 
 Conținutul ghidului aparține autorilor săi. Finanțatorul nu este responsabil pentru conținut.
 

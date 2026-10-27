@@ -22,7 +22,7 @@ Exemple: `G1_spatiu_2026-11-03`, `G2_exercitiu-linie_2026-11-04`.
 - fără diacritice și fără spații (numele de fișiere rămân sigure pe orice calculator);
 - o schiță nouă pe zi **doar** dacă vreți să păstrați etapele separat; altfel, aceeași schiță, salvată mereu.
 
-Redenumirea se face în caietul de schițe, cu tastatura virtuală.
+Redenumirea se face în caietul de schițe: meniul cu trei puncte al schiței, apoi iconița „abc” (vezi [Redenumește o schiță nouă](../open-brush/salvare.md#redenumeste)).
 
 ## Trei copii
 
