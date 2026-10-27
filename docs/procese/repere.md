@@ -26,6 +26,9 @@ Cu repere apropiate sau pe același plan, o mică eroare de aliniere se vede mul
 
 ## Desenează stratul de repere
 
+!!! note "Doar în modul Advanced"
+    Straturile sunt în panoul *Extras*, disponibil doar în modul Advanced. În [multiplayer](../open-brush/multiplayer.md), care merge doar în Beginner, nu există straturi.
+
 1. Schiță nouă, scena **Passthrough** (vezi [Passthrough](../open-brush/spatiu.md#passthrough)).
 2. Modul **Advanced** → *Extras* → **Layers** → **Add Layer**. Numește stratul, de exemplu `repere` (vezi [Straturi](../open-brush/straturi.md)).
 3. Pe stratul `repere`, conturează reperele alese, cu o pensulă subțire și ușor de văzut. Pentru muchii drepte folosește [linia dreaptă](../open-brush/unelte/linie-dreapta.md).

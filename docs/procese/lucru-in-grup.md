@@ -15,7 +15,7 @@ Un grup poate lucra la aceeași schiță în două feluri:
 | | Pe rând, pe o cască | Împreună, în multiplayer |
 | --- | --- | --- |
 | cum | elevii trec pe rând prin aceeași cască | fiecare are casca lui, toți desenează deodată |
-| unelte | **toate**, în modul Advanced (straturi, selecție, import, repictare) | doar modul **Beginner** (pensule, culori, radieră, linie dreaptă, oglindă) |
+| unelte | **toate**, în modul Advanced (straturi, selecție, import, repictare) | doar modul **Beginner** (pensule, culori, radieră, linie dreaptă, oglindă); **fără straturi** |
 | necesită | o cască | o cască de elev, internet, aceeași versiune Open Brush |
 
 Prima parte a paginii descrie lucrul pe rând; varianta multiplayer e [la final](#varianta-multiplayer).
@@ -25,6 +25,8 @@ Prima parte a paginii descrie lucrul pe rând; varianta multiplayer e [la final]
 Schița unui grup stă **mereu pe aceeași cască**. Etichetați căștile (de exemplu `C1`, `C2`…) și notați ce grupă lucrează pe ce cască. Mutarea unei schițe pe altă cască se face doar prin calculator (vezi [Copiez lucrările pe calculator](transfer.md)).
 
 ## Fiecare elev, stratul lui
+
+Straturile sunt în panoul *Extras*, disponibil **doar în modul Advanced**. Funcționează deci doar la lucrul pe rând, nu în multiplayer, care merge doar în Beginner.
 
 1. La prima ședință, faceți câte un strat pentru fiecare elev, cu numele lui (vezi [Straturi](../open-brush/straturi.md)).
 2. Când un elev pune casca, își face activ **stratul propriu** înainte să deseneze.

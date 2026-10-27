@@ -13,14 +13,15 @@ O lucrare de câteva luni nu trebuie să depindă de o singură cască.
 
 ## Regula de nume
 
+Schița poartă **numele real al elevului** și **o dată simplă**, ca elevul să și-o găsească ușor:
+
 ```
-G<grupa>_<subiect>_<AAAA-LL-ZZ>
+Prenume Nume zi.lună
 ```
 
-Exemple: `G1_spatiu_2026-11-03`, `G2_exercitiu-linie_2026-11-04`.
+Exemplu: `Ana Popescu 3.11`.
 
-- fără diacritice și fără spații (numele de fișiere rămân sigure pe orice calculator);
-- o schiță nouă pe zi **doar** dacă vreți să păstrați etapele separat; altfel, aceeași schiță, salvată mereu.
+Odată cu numele, ajută și [miniatura schiței](../open-brush/salvare.md#miniatura): o imagine pe care elevul o recunoaște.
 
 Redenumirea se face în caietul de schițe: meniul cu trei puncte al schiței, apoi iconița „abc” (vezi [Redenumește o schiță nouă](../open-brush/salvare.md#redenumeste)).
 

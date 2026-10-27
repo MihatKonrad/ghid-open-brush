@@ -24,7 +24,7 @@ Pentru cine pune casca pentru prima dată. Durează în jur de 15 minute. Restul
 9. **Greșeli și mișcare.**
     - ++x++ pe mâna-paletă = **anulează** ultima linie (*Undo*). ++y++ = **refă** (*Redo*). Ține apăsat ca să anulezi mai multe deodată.
     - Desenul stă în sală: ca să-l vezi din altă parte, **mergi în jurul lui**. În passthrough, mutarea lumii cu butoanele laterale e blocată implicit.
-10. **Salvează și redenumește.** Pe mâna-paletă e panoul de administrare (*Admin Panel*). Apasă **Save Sketch** (salvează schița). La o schiță nouă, intră apoi în *Sketchbook*, apasă pe meniul cu trei puncte al schiței și pe iconița **„abc”** ca s-o redenumești. Detalii: [Redenumește o schiță nouă](open-brush/salvare.md#redenumeste).
+10. **Salvează și redenumește.** Pe mâna-paletă e panoul de administrare (*Admin Panel*). Apasă **Save Sketch** (salvează schița) și fă fotografia cerută pentru miniatură: o imagine de ansamblu sau un detaliu pe care îl recunoști. La o schiță nouă, intră apoi în *Sketchbook*, apasă pe meniul cu trei puncte al schiței și pe iconița **„abc”** ca s-o redenumești cu numele tău și data, de exemplu `Ana Popescu 3.11`. Detalii: [Redenumește o schiță nouă](open-brush/salvare.md#redenumeste).
 
 !!! protocol "Înainte să scoți casca"
     Salvează la finalul lucrului sau înainte să scoți casca, chiar dacă desenul nu e terminat. Open Brush face și salvări automate, dar nu te baza pe ele. Vezi [Salvare și arhivare](protocoale/arhivare.md).

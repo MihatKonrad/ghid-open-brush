@@ -10,13 +10,17 @@ tags:
 
 ## Salvează schița
 
-**Admin Panel → Save Sketch.** Aplicația face și o fotografie mică (miniatură), pe care o vezi apoi în caietul de schițe.
+**Admin Panel → Save Sketch.** La salvare, aplicația îți cere o fotografie a lucrării, care devine **miniatura** schiței din caietul de schițe.
 
 - Prima salvare creează un fișier nou. Salvările următoare îl actualizează.
 - Fișierele au extensia `.tilt` și stau în cască, în `Open Brush/Sketches`.
 
 !!! protocol "Când salvezi"
     La finalul lucrului sau **înainte să scoți casca**.
+
+## Miniatura { #miniatura }
+
+Fotografia făcută la salvare e imaginea după care elevul își găsește lucrarea data viitoare. Alege fie o **imagine de ansamblu**, fie un **detaliu pe care elevul îl recunoaște**, ca schița să fie ușor de găsit pentru continuare.
 
 ## Redenumește o schiță nouă { #redenumeste }
 
@@ -25,7 +29,7 @@ O schiță salvată prima dată primește un nume automat. Ca s-o redenumești:
 1. Deschide caietul de schițe (*Sketchbook*), butonul mare din mijlocul *Admin Panel*.
 2. Găsește schița în lista de schițe locale.
 3. Apasă pe **meniul cu trei puncte** (⋯) al schiței.
-4. Apasă pe **iconița „abc”** și scrie numele nou cu tastatura virtuală.
+4. Apasă pe **iconița „abc”** și scrie numele nou cu tastatura virtuală: numele real al elevului și o dată simplă, de exemplu `Ana Popescu 3.11` (vezi [Regula de nume](../protocoale/arhivare.md#regula-de-nume)).
 
 ## Caietul de schițe (*Sketchbook*)
 
@@ -35,9 +39,6 @@ Butonul mare din mijlocul *Admin Panel*. Are file pentru:
 - schițe din **Icosa Gallery** (galeria online a comunității), dacă există conexiune la internet.
 
 Acolo deschizi o schiță existentă sau o [redenumești](#redenumeste).
-
-!!! tip "Nume de fișier clare"
-    Folosiți o regulă comună de nume, de exemplu `G1_spatiu_2026-11-03` (grupa, subiectul, data). Detalii: [Salvare și arhivare](../protocoale/arhivare.md).
 
 ## Salvări automate
 
